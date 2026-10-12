@@ -1,0 +1,36 @@
+# systemd unit for the headless A70 service (Jetson / Raspberry Pi / industrial PC).
+#   sudo cp a70_cli /usr/local/bin/ && sudo cp a70.conf /etc/a70.conf
+#   sudo useradd -r -s /usr/sbin/nologin a70 && sudo mkdir -p /var/lib/a70 && sudo chown a70: /var/lib/a70
+#   sudo cp a70.service /etc/systemd/system/ && sudo systemctl enable --now a70
+#   journalctl -u a70 -f          # logs        systemctl status a70     # live status line
+[Unit]
+Description=FLIR A70 radiometric capture + Modbus TCP service
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=notify
+NotifyAccess=main
+ExecStart=/usr/local/bin/a70_cli serve --config /etc/a70.conf
+User=a70
+Group=a70
+WorkingDirectory=/var/lib/a70
+# Restart on crash, and on hang: the service pings the watchdog only while its
+# acquisition loop is turning.
+Restart=always
+RestartSec=5
+WatchdogSec=60
+TimeoutStopSec=30
+# Modbus on port 502 without running as root
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+CapabilityBoundingSet=CAP_NET_BIND_SERVICE
+# Hardening
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/var/lib/a70
+PrivateTmp=yes
+# Larger UDP receive buffers help GigE Vision; set system-wide in /etc/sysctl.d (see README).
+
+[Install]
+WantedBy=multi-user.target
