@@ -159,5 +159,3 @@ deploy/            a70.service (systemd), a70.conf (example config)
 - The visual 1280×960 camera and FLIR's compressed radiometric RTSP stream (that needs the FLIR Atlas SDK).
 - `IRFormat=Radiometric` raw counts, which need FLIR's calibration constants.
 - CUI screening relies on **relative ΔT**. Keep emissivity and reflected temperature consistent between captures, and confirm suspect areas with another inspection method.
-#   C U I _ G i g E V i s i o n  
- 
