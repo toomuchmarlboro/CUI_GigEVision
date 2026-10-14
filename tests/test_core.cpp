@@ -75,6 +75,59 @@ static void testSimRealism() {
     cam2.close();
 }
 
+// RealReferenceCapture serves a real (not simulated) FLIR capture as a static frame —
+// see core/src/real_reference_data.cpp. Verify the toggle works, the frame stays within a
+// sane physical envelope, and it's actually static across two grabs (distinguishing it from
+// the procedural scene's moving-hotspot/wet-patch dynamics).
+static void testRealReferenceCapture() {
+    A70Camera cam("sim");
+    cam.open("");
+    CHECK(cam.backend().has("RealReferenceCapture"));
+    cam.backend().setString("RealReferenceCapture", "1");
+    cam.start();
+    ThermalFrame f1, f2;
+    CHECK(cam.grab(f1));
+    CHECK(cam.grab(f2));
+    bool bounded = true, identical = true;
+    for (int y = 0; y < f1.height && bounded; ++y)
+        for (int x = 0; x < f1.width; ++x) {
+            double c = f1.at(x, y);
+            if (!(c > -50.0 && c < 200.0)) { bounded = false; break; }
+            if (f1.at(x, y) != f2.at(x, y)) identical = false;
+        }
+    CHECK(bounded);
+    CHECK(identical);  // static reference frame, unlike the procedural scene
+    cam.backend().setString("RealReferenceCapture", "0");
+    cam.close();
+}
+
+// Visual-mode capture (A70Camera::grabVisual / CaptureEngine::captureVisual): switches
+// ImageMode to Visual, grabs, and must restore ImageMode afterward regardless of outcome.
+// Also verify snapshot()'s best-effort visual companion file when enabled.
+static void testVisualCapture(const std::string& dir) {
+    EngineConfig c;
+    c.backend = "sim";
+    c.folder = dir;
+    c.prefix = "vis";
+    c.captureVisualOnSnapshot = true;
+    CaptureEngine e(c);
+    std::string err;
+    CHECK(e.start(&err));
+    for (int i = 0; i < 100 && e.status().framesTotal < 3; ++i) std::this_thread::sleep_for(std::chrono::milliseconds(20));
+    CHECK(e.status().fresh);
+
+    std::string before = e.camera()->backend().getString("ImageMode");
+    std::vector<uint8_t> rgb;
+    int w = 0, h = 0;
+    CHECK(e.captureVisual(rgb, w, h, &err));
+    CHECK(w == 640 && h > 0 && rgb.size() == size_t(w) * h * 3);
+    CHECK(e.camera()->backend().getString("ImageMode") == before);  // restored, not left in Visual
+
+    auto p = e.snapshot(&err);
+    CHECK(p.has_value());
+    CHECK(!p->visual.empty() && fs::exists(p->visual));
+}
+
 static void testFiles(const std::string& dir) {
     A70Camera cam("sim");
     cam.open("");
@@ -224,6 +277,8 @@ int main() {
     fs::create_directories(dir);
     testCameraSim();
     testSimRealism();
+    testRealReferenceCapture();
+    testVisualCapture(dir);
     testFiles(dir);
     testRecorder(dir);
     testEngine(dir);

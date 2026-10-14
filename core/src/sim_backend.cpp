@@ -12,6 +12,7 @@
 #include <thread>
 
 #include "a70/backend.h"
+#include "a70/real_reference.h"
 
 namespace a70 {
 namespace {
@@ -66,6 +67,9 @@ public:
         add("GevSCPSPacketSize", FeatureType::Integer, "1500", "TransportLayerControl", true);
         add("SimCableUnplug", FeatureType::Command, "", "Simulator", true, {}, "",
             "Fault injection: camera disappears for 4 s");
+        add("RealReferenceCapture", FeatureType::Boolean, "0", "Simulator", true, {}, "",
+            "Serves a real (not simulated) FLIR radiometric capture as a static frame instead "
+            "of the procedural scene. For comparison/demo use only — see core/src/real_reference_data.cpp");
         buildStatic();
         open_ = true;
         t0_ = monoSeconds();
@@ -154,6 +158,7 @@ public:
         }
         double fps, eps, tr, step;
         int h;
+        bool realRef, visualMode;
         {
             std::lock_guard<std::mutex> lk(m_);
             fps = std::max(1.0, std::stod(feats_["AcquisitionFrameRate"].value));
@@ -161,11 +166,57 @@ public:
             tr = std::stod(feats_["ReflectedTemperature"].value);
             step = feats_["IRFormat"].value == "TemperatureLinear10mK" ? 0.01 : 0.1;
             h = std::stoi(feats_["Height"].value);
+            const std::string& rr = feats_["RealReferenceCapture"].value;
+            realRef = rr == "1" || rr == "true";
+            visualMode = feats_["ImageMode"].value == "Visual";
         }
         double now = monoSeconds();
         if (next_ > now) std::this_thread::sleep_for(std::chrono::duration<double>(next_ - now));
         next_ = std::max(next_ + 1.0 / fps, monoSeconds() - 1.0 / fps);
         double t = monoSeconds() - t0_;
+
+        if (visualMode) {
+            // Illustrative only — a simulator-drawn "visual camera" image, not a real
+            // photograph. Deliberately plain/grayscale so it never reads as thermal data.
+            out.width = W;
+            out.height = h;
+            out.data.assign(size_t(W) * h, 0);
+            std::uniform_int_distribution<int> grain(-6, 6);
+            for (int y = 0; y < std::min(h, H); ++y)
+                for (int x = 0; x < W; ++x) {
+                    bool pipeBand = y >= 180 && y <= 320;
+                    int base = pipeBand ? 165 : 110;
+                    int v = std::clamp(base + grain(rng_), 0, 255);
+                    out.data[size_t(y) * W + x] = static_cast<uint16_t>(v);
+                }
+            for (int y = H; y < h; ++y)
+                for (int x = 0; x < W; ++x) out.data[size_t(y) * W + x] = static_cast<uint16_t>(x);
+            out.hostTimeNs = nowNs();
+            out.cameraTimestamp = static_cast<uint64_t>(t * 1e9);
+            out.frameId = ++n_;
+            return true;
+        }
+
+        if (realRef) {
+            // Real (not simulated) FLIR capture, served as-is: a static single frame, no
+            // synthetic noise/vignette/emissivity reprocessing — it's already final calibrated
+            // data. See core/src/real_reference_data.cpp for provenance and the GPL-3.0 note.
+            out.width = W;
+            out.height = h;
+            out.data.assign(size_t(W) * h, 0);
+            for (int y = 0; y < std::min(h, H); ++y)
+                for (int x = 0; x < W; ++x) {
+                    size_t i = size_t(y) * W + x;
+                    double tC = kRealReferenceCounts640x480[i] * 0.01 - 273.15;
+                    out.data[i] = static_cast<uint16_t>(std::clamp(std::lround((tC + 273.15) / step), 0L, 65535L));
+                }
+            for (int y = H; y < h; ++y)
+                for (int x = 0; x < W; ++x) out.data[size_t(y) * W + x] = static_cast<uint16_t>(x);
+            out.hostTimeNs = nowNs();
+            out.cameraTimestamp = static_cast<uint64_t>(t * 1e9);
+            out.frameId = ++n_;
+            return true;
+        }
 
         // dynamic scene on top of the static base
         std::vector<float>& T = work_;

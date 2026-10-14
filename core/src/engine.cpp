@@ -401,6 +401,16 @@ void CaptureEngine::setParamPersistent(const std::string& key, double v) {
     cfg_.params[key] = v;
 }
 
+bool CaptureEngine::captureVisual(std::vector<uint8_t>& rgb, int& w, int& h, std::string* err) {
+    std::lock_guard<std::mutex> lk(acqMtx_);  // same mutex the acquisition loop holds around grab()
+    A70Camera* c = camera();
+    if (!c) {
+        if (err) *err = "Not connected";
+        return false;
+    }
+    return c->grabVisual(rgb, w, h, err);
+}
+
 std::optional<SnapshotPaths> CaptureEngine::snapshot(std::string* err, bool logMeasurements) {
     auto f = latest();
     auto fail = [&](const std::string& m) -> std::optional<SnapshotPaths> {
@@ -426,7 +436,16 @@ std::optional<SnapshotPaths> CaptureEngine::snapshot(std::string* err, bool logM
         o.palette = cfg_.palette;
         o.csv = cfg_.csvWithSnapshots;
         std::vector<Roi> r = rois();
-        SnapshotPaths p = saveSnapshot(*f, md, o, r);
+        std::vector<uint8_t> vrgb;
+        int vw = 0, vh = 0;
+        if (cfg_.captureVisualOnSnapshot) {
+            std::string verr;
+            if (!captureVisual(vrgb, vw, vh, &verr)) {
+                vw = vh = 0;
+                log("warning", "Visual companion capture skipped: " + verr);
+            }
+        }
+        SnapshotPaths p = saveSnapshot(*f, md, o, r, vw > 0 ? vrgb.data() : nullptr, vw, vh);
         if (logMeasurements) {
             auto res = measure(*f, r);
             std::string lp = joinPath(cfg_.folder, cfg_.prefix + "_measurements_log.csv");

@@ -2179,6 +2179,8 @@ CMakeFiles/a70_gui.dir/gui/main_window.cpp.obj
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qrubberband.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qframe.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qabstractitemmodel.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QDialog
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qdialog.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QDir
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qdir.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qdirlisting.h
@@ -2213,8 +2215,9 @@ CMakeFiles/a70_gui.dir/gui/main_window.cpp.obj
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qspinbox.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QFileDialog
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qfiledialog.h
- C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qdialog.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QFileInfo
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QFileSystemWatcher
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qfilesystemwatcher.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QFormLayout
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qformlayout.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QLayout
@@ -2223,6 +2226,7 @@ CMakeFiles/a70_gui.dir/gui/main_window.cpp.obj
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qboxlayout.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qlayout.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qgridlayout.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/QImage
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QGroupBox
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qgroupbox.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QHBoxLayout
@@ -2243,9 +2247,13 @@ CMakeFiles/a70_gui.dir/gui/main_window.cpp.obj
  C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qpen.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qtextoption.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qchar.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QListWidget
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qlistwidget.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qlistview.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QMessageBox
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qmessagebox.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qdialogbuttonbox.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/QPixmap
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QPushButton
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qpushbutton.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QScrollArea

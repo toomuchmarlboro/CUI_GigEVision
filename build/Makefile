@@ -516,6 +516,30 @@ core\src\modbus_server.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70core.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70core.dir\core\src\modbus_server.cpp.s
 .PHONY : core\src\modbus_server.cpp.s
 
+core\src\real_reference_data.obj: core\src\real_reference_data.cpp.obj
+.PHONY : core\src\real_reference_data.obj
+
+# target to build an object file
+core\src\real_reference_data.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70core.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj
+.PHONY : core\src\real_reference_data.cpp.obj
+
+core\src\real_reference_data.i: core\src\real_reference_data.cpp.i
+.PHONY : core\src\real_reference_data.i
+
+# target to preprocess a source file
+core\src\real_reference_data.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70core.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.i
+.PHONY : core\src\real_reference_data.cpp.i
+
+core\src\real_reference_data.s: core\src\real_reference_data.cpp.s
+.PHONY : core\src\real_reference_data.s
+
+# target to generate assembly for a file
+core\src\real_reference_data.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70core.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.s
+.PHONY : core\src\real_reference_data.cpp.s
+
 core\src\recorder.obj: core\src\recorder.cpp.obj
 .PHONY : core\src\recorder.obj
 
@@ -833,6 +857,9 @@ help:
 	@echo ... core/src/modbus_server.obj
 	@echo ... core/src/modbus_server.i
 	@echo ... core/src/modbus_server.s
+	@echo ... core/src/real_reference_data.obj
+	@echo ... core/src/real_reference_data.i
+	@echo ... core/src/real_reference_data.s
 	@echo ... core/src/recorder.obj
 	@echo ... core/src/recorder.i
 	@echo ... core/src/recorder.s

@@ -68,6 +68,7 @@ static int selfTest(QApplication& app, MainWindow& w, const QString& out) {
     pump(app, 1200);
     w.grab().save(out + "/gui.png");
     w.setPanelVisible(true);  // drawer defaults to hidden; show it so this grab isn't blank
+    w.showCapturesTabForTest();
     pump(app, 200);
     w.panel()->grab().save(out + "/panel.png");
     auto s = w.engine()->status();

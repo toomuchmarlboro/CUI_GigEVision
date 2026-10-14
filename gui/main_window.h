@@ -14,11 +14,14 @@ class QFormLayout;
 class QGroupBox;
 class QLabel;
 class QLineEdit;
+class QListWidget;
+class QListWidgetItem;
 class QPushButton;
 class QSpinBox;
 class QTableWidget;
 class QTimer;
 class QToolButton;
+class QFileSystemWatcher;
 class ThermalView;
 class ColorBar;
 
@@ -41,6 +44,7 @@ public:
     QWidget* panel() const { return panel_; }
     void enableModbus(int port);
     void setPanelVisible(bool on);
+    void showCapturesTabForTest();  // selects the Captures tab + its first item; used by --selftest
 
 public slots:
     void connectCamera();
@@ -65,9 +69,13 @@ private slots:
     void irFormatChanged();
     void showFeatures();
     void showAbout();
+    void toggleRealReference(bool on);
+    void refreshCapturesList();
+    void onCaptureSelected(QListWidgetItem* item);
 
 private:
     QWidget* buildBrandHeader();
+    QWidget* buildCaptures();
     QGroupBox* buildConnection();
     QGroupBox* buildDisplay();
     QGroupBox* buildCamera();
@@ -98,7 +106,7 @@ private:
     QPushButton* btnConnect_;
     // display
     QComboBox* cmbPalette_;
-    QCheckBox *chkAuto_, *chkBoxRange_, *chkExtremes_;
+    QCheckBox *chkAuto_, *chkBoxRange_, *chkExtremes_, *chkRealRef_;
     QDoubleSpinBox *spLo_, *spHi_;
     // camera
     QGroupBox* grpCamera_;
@@ -121,6 +129,10 @@ private:
     // measurements
     QTableWidget* tbl_;
     bool updatingTable_ = false;
+    // captures (saved TIFF browser)
+    QListWidget* capturesList_ = nullptr;
+    QLabel *captureThermalPreview_ = nullptr, *captureVisualPreview_ = nullptr, *captureInfoLabel_ = nullptr;
+    QFileSystemWatcher* capturesWatcher_ = nullptr;
 
     QTimer* statusTimer_;
 };

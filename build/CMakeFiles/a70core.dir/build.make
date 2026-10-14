@@ -141,10 +141,30 @@ CMakeFiles\a70core.dir\core\src\sim_backend.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\a70core.dir\core\src\sim_backend.cpp.s /c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\sim_backend.cpp"
 <<
 
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: CMakeFiles\a70core.dir\flags.make
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\real_reference_data.cpp"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\real_reference_data.cpp"
+<<
+
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.i"
+	"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" > CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\real_reference_data.cpp"
+<<
+
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.s"
+	"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\a70core.dir\core\src\real_reference_data.cpp.s /c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\real_reference_data.cpp"
+<<
+
 CMakeFiles\a70core.dir\core\src\aravis_backend.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\aravis_backend.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\aravis_backend.cpp"
 CMakeFiles\a70core.dir\core\src\aravis_backend.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/a70core.dir/core/src/aravis_backend.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/a70core.dir/core/src/aravis_backend.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\aravis_backend.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\aravis_backend.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\aravis_backend.cpp"
 <<
@@ -164,7 +184,7 @@ CMakeFiles\a70core.dir\core\src\aravis_backend.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\spinnaker_backend.cpp"
 CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/a70core.dir/core/src/spinnaker_backend.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/a70core.dir/core/src/spinnaker_backend.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\spinnaker_backend.cpp"
 <<
@@ -184,7 +204,7 @@ CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\camera.cpp"
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/a70core.dir/core/src/camera.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/a70core.dir/core/src/camera.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\camera.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\camera.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\camera.cpp"
 <<
@@ -204,7 +224,7 @@ CMakeFiles\a70core.dir\core\src\camera.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\thermal.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\thermal.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\thermal.cpp"
 CMakeFiles\a70core.dir\core\src\thermal.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/a70core.dir/core/src/thermal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/a70core.dir/core/src/thermal.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\thermal.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\thermal.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\thermal.cpp"
 <<
@@ -224,7 +244,7 @@ CMakeFiles\a70core.dir\core\src\thermal.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\io.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\io.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\io.cpp"
 CMakeFiles\a70core.dir\core\src\io.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/a70core.dir/core/src/io.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/a70core.dir/core/src/io.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\io.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\io.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\io.cpp"
 <<
@@ -244,7 +264,7 @@ CMakeFiles\a70core.dir\core\src\io.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\recorder.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\recorder.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\recorder.cpp"
 CMakeFiles\a70core.dir\core\src\recorder.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/a70core.dir/core/src/recorder.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/a70core.dir/core/src/recorder.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\recorder.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\recorder.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\recorder.cpp"
 <<
@@ -264,7 +284,7 @@ CMakeFiles\a70core.dir\core\src\recorder.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\engine.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\engine.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\engine.cpp"
 CMakeFiles\a70core.dir\core\src\engine.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/a70core.dir/core/src/engine.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/a70core.dir/core/src/engine.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\engine.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\engine.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\engine.cpp"
 <<
@@ -284,7 +304,7 @@ CMakeFiles\a70core.dir\core\src\engine.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\modbus_server.cpp"
 CMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/a70core.dir/core/src/modbus_server.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/a70core.dir/core/src/modbus_server.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\modbus_server.cpp"
 <<
@@ -304,7 +324,7 @@ CMakeFiles\a70core.dir\core\src\modbus_server.cpp.s: cmake_force
 CMakeFiles\a70core.dir\core\src\watchdog.cpp.obj: CMakeFiles\a70core.dir\flags.make
 CMakeFiles\a70core.dir\core\src\watchdog.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\watchdog.cpp"
 CMakeFiles\a70core.dir\core\src\watchdog.cpp.obj: CMakeFiles\a70core.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/a70core.dir/core/src/watchdog.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/a70core.dir/core/src/watchdog.cpp.obj"
 	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\a70core.dir\core\src\watchdog.cpp.obj.d --working-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build" --filter-prefix="Note: including file: " -- "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\cl.exe" @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\a70core.dir\core\src\watchdog.cpp.obj /FdCMakeFiles\a70core.dir\a70core.pdb /FS -c "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\watchdog.cpp"
 <<
@@ -327,6 +347,7 @@ a70core_OBJECTS = \
 "CMakeFiles\a70core.dir\core\src\json.cpp.obj" \
 "CMakeFiles\a70core.dir\core\src\backend.cpp.obj" \
 "CMakeFiles\a70core.dir\core\src\sim_backend.cpp.obj" \
+"CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj" \
 "CMakeFiles\a70core.dir\core\src\aravis_backend.cpp.obj" \
 "CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj" \
 "CMakeFiles\a70core.dir\core\src\camera.cpp.obj" \
@@ -344,6 +365,7 @@ a70core.lib: CMakeFiles\a70core.dir\core\src\types.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\core\src\json.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\core\src\backend.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\core\src\sim_backend.cpp.obj
+a70core.lib: CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\core\src\aravis_backend.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\core\src\camera.cpp.obj
@@ -355,7 +377,7 @@ a70core.lib: CMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\core\src\watchdog.cpp.obj
 a70core.lib: CMakeFiles\a70core.dir\build.make
 a70core.lib: CMakeFiles\a70core.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX static library a70core.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX static library a70core.lib"
 	$(CMAKE_COMMAND) -P CMakeFiles\a70core.dir\cmake_clean_target.cmake
 	"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\bin\Hostx64\x64\lib.exe" /nologo /machine:x64 /out:a70core.lib @CMakeFiles\a70core.dir\objects1.rsp
 

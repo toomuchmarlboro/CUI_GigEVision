@@ -134,3 +134,124 @@ use a real photo as a visual-only reference, kept separate from the live simulat
   (`tests/test_core.cpp:183`) is timing-flaky under system load. Worth hardening separately
   (e.g. poll for frame count instead of a fixed sleep) if it recurs — out of scope here
   since it's pre-existing and untouched by this work.
+
+---
+
+## Follow-up: genuine real radiometric capture wired into the simulator
+
+Operator pushed further: "why is it not a real photorealistic tiff" — wanted actual real
+captured radiometric data playable through the app, not just a visual-only reference photo.
+Found a real option: `gtatters/Thermimage` (GitHub, GPL-3.0) ships `IR_2412.jpg`, a genuine
+FLIR SC660 capture at 640×480 (exact match to the A70's native resolution) with its full
+raw radiometric payload (16-bit counts + Planck/atmospheric calibration constants) intact.
+Flagged two real decisions before touching code — GPL-3.0 licensing of the source data, and
+the real engineering work needed to parse FLIR's proprietary raw payload — operator
+explicitly approved both ("proceed anyway").
+
+- **Extraction (one-time, offline, not part of the shipped build):** installed `exiftool`
+  (OliverBetz.ExifTool via winget — a one-time dev tool, not a runtime dependency),
+  extracted the embedded `RawThermalImage` (itself a 640×480 16-bit TIFF) and its Planck
+  constants, converted raw counts to real calibrated object temperatures using FLIR's
+  published Planck/atmospheric-transmission equations (reimplemented from public
+  documentation, not copied from the GPL repo's R code), verified the result is physically
+  sane (22.4–34.9 °C) and visually resolves to a recognizable real thermal photo (a bird —
+  genuine detail no procedural generator produces). Re-encoded into this project's own
+  0.01 K/count format and embedded as a C++ array (`core/src/real_reference_data.cpp`,
+  ~1.8 MB, compiled directly into `a70core` — no runtime file path dependency, works
+  headless/CLI/GUI alike per the "behavior belongs in the engine" rule).
+- **Built:** `SimBackend` gained a `RealReferenceCapture` boolean feature. When set, `grab()`
+  serves the real decoded temperatures as a static single frame with **no** synthetic
+  noise/vignette/emissivity reprocessing on top (it's already final calibrated data) —
+  kept structurally separate from the procedural scene's code path.
+- **Built (GUI):** new checkbox in the Display tab ("Real reference capture (static, not
+  simulated)"), enabled only when the connected backend actually has the feature (simulator
+  only). When active, the health indicator shows a distinct "● REAL CAPTURE (static)" in
+  brand blue (not LIVE's green, not ALARM's red) plus an overlay banner — this status can
+  never be confused with live or procedurally-simulated data.
+- **Licensing:** `core/assets/THIRD_PARTY_NOTICES.md` documents both this GPL-3.0 asset and
+  the earlier CC0 About-panel photo — provenance, license, and exactly what was derived vs.
+  original. `core/assets/gpl_source_IR_2412.jpg` (the unmodified original) is kept alongside
+  the derived data for traceability.
+- **Files:** `core/include/a70/real_reference.h`, `core/src/real_reference_data.cpp`,
+  `core/src/sim_backend.cpp`, `core/assets/gpl_source_IR_2412.jpg`,
+  `core/assets/THIRD_PARTY_NOTICES.md`, `CMakeLists.txt`, `gui/main_window.h`,
+  `gui/main_window.cpp`, `tests/test_core.cpp`.
+- **Verified:** clean build (one encoding bug in the generator script caught and fixed —
+  comment text written in the system codepage instead of UTF-8, causing MSVC C4828
+  warnings; regenerated clean); `a70_tests` all pass, including a new
+  `testRealReferenceCapture()` (feature toggle works, frame bounded and physically sane,
+  and — unlike the procedural scene — identical across two consecutive grabs, proving it's
+  genuinely static); end-to-end verified through the actual shipped code path with a
+  throwaway standalone verification program (compiled against the real `a70core.lib`, not
+  a mockup) confirming the exact same 22.41–34.91 °C range as the offline Python check, and
+  the app's own `colorize()` rendering it into the same recognizable real photo.
+- **Not verified:** the GUI checkbox's actual on-screen behavior (selftest doesn't exercise
+  this toggle — verified by code review and the standalone backend-level check instead,
+  since both reach the identical `grab()` code path).
+- **Pre-existing issue noticed, not fixed (out of scope):** `build/` is fully tracked in
+  git and no `.gitignore` exists, contradicting this file's own "build/ ... never
+  committed" rule. Flagging for the operator; not touched here since repo/git hygiene
+  wasn't part of what was asked.
+
+---
+
+## Follow-up: TIFF Captures browser + visual-image companion capture
+
+Operator asked for (1) a feature to view TIFFs as they're added to the capture folder, and
+(2) pulling the "regular picture" real thermal cameras capture alongside the thermal image.
+(2) directly implicated **locked decision 0004** ("no FLIR Atlas SDK") — flagged this before
+writing any code. Research found the Atlas SDK doesn't even support C++ natively (it's a
+.NET wrapper, and its own GigE module just wraps Spinnaker, which this project already uses
+directly) — so operator chose to reopen 0004 but build the capability through the
+**already-approved** Aravis/Spinnaker transports instead of Atlas, using the `ImageMode`
+GenICam feature (`sim_backend.cpp` already listed `{"Thermal","Visual"}` as valid choices,
+anticipated but never wired through). This does not actually require installing anything new.
+
+### Increment 1 — visual-frame capture (`core/`)
+- Built: `A70Camera::grabVisual()` — switches `ImageMode→"Visual"` (only if the backend
+  offers that choice), grabs one frame, **always** restores the original `ImageMode`
+  (even on failure) so a session never gets stuck off Thermal mode. Treats the raw buffer
+  generically as 8-bit grayscale — the real camera's actual visual pixel layout is
+  **unverified**, same status as every other candidate GenICam name in `camera.cpp`.
+- Built: `CaptureEngine::captureVisual()` holds `acqMtx_` — the same mutex the acquisition
+  loop already holds around every `grab()` (identical pattern to `changeIrFormat`) — so it
+  safely pauses live acquisition rather than racing it, with no new locking primitive.
+- Built: `EngineConfig::captureVisualOnSnapshot` (**default false**) — this is the one
+  engine operation that briefly pauses live streaming, so unlike everything else in
+  `CaptureEngine` it's opt-in rather than silently changing the reliability behavior of
+  existing deployments/tests. `snapshot()` best-effort captures+saves `<stem>_visual.png`
+  (via the existing `writePngRgb`) when enabled; failure never blocks the main thermal
+  snapshot, only logs a warning.
+- Built: `saveSnapshot()` extended with optional `visualRgb/visualW/visualH` params and a
+  new `SnapshotPaths::visual` field — file-naming logic stays centralized in `io.cpp`.
+- Built: simulator renders a distinct plain-grayscale synthetic image for `ImageMode=Visual`
+  (clearly simulator-illustrative, never claimed as a real photo).
+- Files: `core/include/a70/camera.h`, `core/src/camera.cpp`, `core/include/a70/engine.h`,
+  `core/src/engine.cpp`, `core/include/a70/io.h`, `core/src/io.cpp`, `core/src/sim_backend.cpp`.
+- Verified: `a70_tests` (new `testVisualCapture`: grab succeeds, `ImageMode` restored after,
+  snapshot's visual companion file actually written) passed twice in a row; headless
+  (`-DA70_BUILD_GUI=OFF`) build + its own test run also pass.
+
+### Increment 2 — Captures tab TIFF browser (`gui/`)
+- Built: new "Captures" tab in the settings drawer. `QFileSystemWatcher` on the configured
+  output folder (re-watched whenever the folder field changes) repopulates a sorted
+  (newest-first, sorted explicitly by `QFileInfo::lastModified()` rather than relying on
+  `QDir::Time`'s ambiguous default ordering) list of `.tiff` files live. Selecting one
+  decodes via the existing `io::readTiff16` + `jsonFindNumber(desc, "scale_K_per_count", …)`
+  — the exact same pattern `a70_cli csv` already uses, not new logic — colorizes with the
+  current palette, and shows it next to the paired `<stem>_visual.png` when present (or a
+  clear "(no visual companion)" placeholder when not).
+- Added `MainWindow::showCapturesTabForTest()` (same precedent as Increment 1's
+  `setPanelVisible`) so `--selftest` actually exercises this tab rather than leaving it
+  screenshot-unverified.
+- Files: `gui/main_window.h`, `gui/main_window.cpp`, `gui/main.cpp` (selftest hook only).
+- Verified: selftest screenshot shows the tab selected, list populated, thermal preview
+  correctly decoded/colorized (matches the live view's colors), stats line correct, and the
+  "no visual companion" fallback rendering correctly (this run had
+  `captureVisualOnSnapshot` at its default-off, so the fallback path is what's confirmed;
+  the paired-image path is confirmed separately at the engine/file level by
+  `testVisualCapture`). `a70_tests` passed twice in a row; headless build unaffected
+  (gui/ changes only).
+- Not verified: the real A70's actual visual-mode pixel format/behavior (stated up front —
+  simulator-only until real hardware is available); an interactive on-screen run (only
+  offscreen selftest was used).

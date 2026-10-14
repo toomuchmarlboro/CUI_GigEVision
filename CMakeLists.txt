@@ -34,6 +34,7 @@ add_library(a70core STATIC
   core/src/json.cpp
   core/src/backend.cpp
   core/src/sim_backend.cpp
+  core/src/real_reference_data.cpp
   core/src/aravis_backend.cpp
   core/src/spinnaker_backend.cpp
   core/src/camera.cpp

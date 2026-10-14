@@ -330,6 +330,9 @@ CMakeFiles/a70core.dir/core/src/camera.cpp.obj
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/thermal.h
  C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/array
  C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/cmath
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/algorithm
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/__msvc_heap_algorithms.hpp
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/__msvc_minmax.hpp
  C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/chrono
  C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/xfilesystem_abi.h
 
@@ -1093,6 +1096,18 @@ CMakeFiles/a70core.dir/core/src/modbus_server.cpp.obj
  C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/inaddr.h
  C:/Program Files (x86)/Windows Kits/10/include/10.0.26100.0/shared/qos.h
 
+CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.obj
+ C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/real_reference_data.cpp
+ C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/real_reference.h
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/cstdint
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/yvals_core.h
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/vcruntime.h
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/sal.h
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/concurrencysal.h
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/vadefs.h
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/xkeycheck.h
+ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/stdint.h
+
 CMakeFiles/a70core.dir/core/src/recorder.cpp.obj
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/recorder.cpp
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/recorder.h
@@ -1424,6 +1439,7 @@ CMakeFiles/a70core.dir/core/src/sim_backend.cpp.obj
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/backend.h
  C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/string
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/types.h
+ C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/real_reference.h
 
 CMakeFiles/a70core.dir/core/src/spinnaker_backend.cpp.obj
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/spinnaker_backend.cpp

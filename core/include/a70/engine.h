@@ -41,6 +41,11 @@ struct EngineConfig {
     std::string range;
     bool nucOnConnect = false;
     double displayHz = 15.0;              // max frame-callback rate
+    // Best-effort visual-light companion image on every snapshot (see A70Camera::grabVisual).
+    // Off by default: unlike everything else in this engine, it briefly pauses live
+    // acquisition to switch ImageMode, so it is opt-in rather than silently changing the
+    // reliability behavior of existing deployments.
+    bool captureVisualOnSnapshot = false;
 };
 
 enum class Command : int {
@@ -120,6 +125,10 @@ public:
     void setRois(std::vector<Roi> rois);
     std::vector<Roi> rois() const;
     void setRoiAlarm(size_t index, double aboveC);  // NaN disables
+
+    // Visual (non-radiometric) companion frame — see A70Camera::grabVisual. Briefly pauses
+    // live acquisition (holds the same mutex every grab() takes); callers don't need to.
+    bool captureVisual(std::vector<uint8_t>& rgb, int& w, int& h, std::string* err = nullptr);
 
     // capture
     std::optional<SnapshotPaths> snapshot(std::string* err = nullptr, bool logMeasurements = false);

@@ -124,5 +124,8 @@ C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/json.h
 C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/thermal.h
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/array
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/cmath
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/algorithm
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/__msvc_heap_algorithms.hpp
+C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/__msvc_minmax.hpp
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/chrono
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/xfilesystem_abi.h

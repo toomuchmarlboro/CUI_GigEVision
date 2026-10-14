@@ -32,6 +32,7 @@ Json roiResultsJson(const std::vector<Roi>& rois, const std::vector<RoiResult>& 
 
 struct SnapshotPaths {
     std::string tiff, json, png, csv;
+    std::string visual;  // "<stem>_visual.png" — empty if no visual companion was captured
 };
 
 struct SnapshotOptions {
@@ -42,8 +43,11 @@ struct SnapshotOptions {
     bool csv = false;
 };
 
+// visualRgb/visualW/visualH: optional visual-light companion image (see
+// A70Camera::grabVisual) — pass visualW/visualH == 0 (the default) to skip it.
 SnapshotPaths saveSnapshot(const ThermalFrame& f, Json metadata, const SnapshotOptions& opt,
-                           const std::vector<Roi>& rois = {});
+                           const std::vector<Roi>& rois = {}, const uint8_t* visualRgb = nullptr,
+                           int visualW = 0, int visualH = 0);
 
 // Append a row to a CSV measurement log (creates the header on first write). If the
 // existing file has different columns (tools changed) a new timestamped file is started.

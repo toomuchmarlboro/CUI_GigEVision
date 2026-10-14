@@ -1,5 +1,6 @@
 #include "a70/camera.h"
 
+#include <algorithm>
 #include <chrono>
 #include <ctime>
 
@@ -176,6 +177,60 @@ bool A70Camera::grab(ThermalFrame& out, double timeoutS) {
                       out.counts.begin() + size_t(y) * w);
     }
     return true;
+}
+
+bool A70Camera::grabVisual(std::vector<uint8_t>& rgbOut, int& w, int& h, std::string* err) {
+    std::lock_guard<std::recursive_mutex> lk(mtx_);
+    if (!be_->has("ImageMode")) {
+        if (err) *err = "Camera has no ImageMode feature — cannot switch to Visual";
+        return false;
+    }
+    auto choices = be_->choices("ImageMode");
+    if (std::find(choices.begin(), choices.end(), "Visual") == choices.end()) {
+        if (err) *err = "Camera's ImageMode has no Visual choice";
+        return false;
+    }
+    std::string orig;
+    try {
+        orig = be_->getString("ImageMode");
+    } catch (const std::exception&) {
+        orig = "Thermal";
+    }
+    bool was = streaming_;
+    bool ok = true;
+    try {
+        if (was) stop();
+        be_->setString("ImageMode", "Visual");
+        if (was) start();
+        RawFrame rf;
+        if (!be_->grab(rf, 2.0)) {
+            if (err) *err = "Visual grab timed out";
+            ok = false;
+        } else {
+            w = rf.width;
+            h = rf.height;
+            rgbOut.assign(size_t(w) * h * 3, 0);
+            for (size_t i = 0; i < size_t(w) * h; ++i) {
+                uint8_t g = static_cast<uint8_t>(std::min<uint32_t>(rf.data[i], 255));
+                rgbOut[i * 3 + 0] = g;
+                rgbOut[i * 3 + 1] = g;
+                rgbOut[i * 3 + 2] = g;
+            }
+        }
+    } catch (const std::exception& e) {
+        if (err) *err = e.what();
+        ok = false;
+    }
+    // always try to restore, even if the grab above failed — never leave the camera
+    // stuck in Visual mode after what the caller sees as a thermal-capture session
+    try {
+        if (was) stop();
+        be_->setString("ImageMode", orig);
+        if (was) start();
+    } catch (const std::exception& e) {
+        warnings_.push_back(std::string("Failed to restore ImageMode after visual capture: ") + e.what());
+    }
+    return ok;
 }
 
 std::vector<std::string> A70Camera::paramKeys() {

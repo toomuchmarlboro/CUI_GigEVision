@@ -136,3 +136,4 @@ C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50
 C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/backend.h
 C:/Program Files (x86)/Microsoft Visual Studio/18/BuildTools/VC/Tools/MSVC/14.50.35717/include/string
 C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/types.h
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/include/a70/real_reference.h

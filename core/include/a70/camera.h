@@ -55,6 +55,15 @@ public:
     bool streaming() const { return streaming_; }
     bool grab(ThermalFrame& out, double timeoutS = 2.0);  // acquisition thread only
 
+    // Visual (non-radiometric) image, via the same GenICam connection: switches
+    // ImageMode to "Visual", grabs one frame, restores ImageMode. UNVERIFIED against a
+    // real A70 (no unit has been connected to this software) — the real camera's visual
+    // pixel layout is a guess (treated as 8-bit grayscale); reconcile against
+    // `a70_cli features` output once real hardware is available. Briefly pauses
+    // streaming if the camera requires a mode change while stopped; caller should hold
+    // whatever mutex normally serializes grab() calls (CaptureEngine::acqMtx_).
+    bool grabVisual(std::vector<uint8_t>& rgbOut, int& w, int& h, std::string* err = nullptr);
+
     // object parameters in °C / m / fraction
     std::vector<std::string> paramKeys();
     std::optional<double> getParam(const std::string& key);

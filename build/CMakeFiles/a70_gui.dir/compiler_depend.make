@@ -2178,6 +2178,8 @@ CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\i
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qrubberband.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qframe.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstractitemmodel.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDialog
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialog.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QDir
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdir.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdirlisting.h
@@ -2212,8 +2214,9 @@ CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\i
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qspinbox.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QFileDialog
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qfiledialog.h
-CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialog.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFileInfo
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFileSystemWatcher
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfilesystemwatcher.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QFormLayout
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qformlayout.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLayout
@@ -2222,6 +2225,7 @@ CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\i
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qboxlayout.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qgridlayout.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QImage
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QGroupBox
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qgroupbox.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHBoxLayout
@@ -2242,9 +2246,13 @@ CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\i
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpen.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextoption.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QListWidget
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlistwidget.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlistview.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMessageBox
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmessagebox.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialogbuttonbox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPixmap
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QPushButton
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qpushbutton.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QScrollArea
@@ -2753,6 +2761,8 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixmap.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomGenerationHelpers.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFileSystemWatcher:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QTextStream:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeLanguageInformation.cmake":
@@ -3018,6 +3028,8 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic.h:
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic_cxx11.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlistview.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasicatomic.h:
 
@@ -3797,6 +3809,8 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHeaderView:
 
 a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QListWidget:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qinputdialog.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets.cmake:
@@ -4063,6 +4077,8 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMessageBox:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlistwidget.h:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qheaderview.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemview.h:
@@ -4175,7 +4191,11 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qcombobox.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDoubleSpinBox:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfilesystemwatcher.h:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qformlayout.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPixmap:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qshortcut.h:
 

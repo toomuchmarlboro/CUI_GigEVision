@@ -224,7 +224,8 @@ Json roiResultsJson(const std::vector<Roi>& rois, const std::vector<RoiResult>& 
     return j;
 }
 
-SnapshotPaths saveSnapshot(const ThermalFrame& f, Json md, const SnapshotOptions& opt, const std::vector<Roi>& rois) {
+SnapshotPaths saveSnapshot(const ThermalFrame& f, Json md, const SnapshotOptions& opt, const std::vector<Roi>& rois,
+                           const uint8_t* visualRgb, int visualW, int visualH) {
     makeDirs(opt.folder);
     std::string stem = joinPath(opt.folder, timestampStem(opt.prefix, f.hostTimeNs));
     FrameStats st = computeStats(f);
@@ -252,6 +253,10 @@ SnapshotPaths saveSnapshot(const ThermalFrame& f, Json md, const SnapshotOptions
     if (opt.csv) {
         p.csv = stem + "_degC.csv";
         writeCsvCelsius(p.csv, f);
+    }
+    if (visualRgb && visualW > 0 && visualH > 0) {
+        p.visual = stem + "_visual.png";
+        writePngRgb(p.visual, visualRgb, visualW, visualH);
     }
     return p;
 }

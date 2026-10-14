@@ -15,6 +15,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/io.cpp" "CMakeFiles/a70core.dir/core/src/io.cpp.obj" "msvc" "CMakeFiles/a70core.dir/core/src/io.cpp.obj.d"
   "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/json.cpp" "CMakeFiles/a70core.dir/core/src/json.cpp.obj" "msvc" "CMakeFiles/a70core.dir/core/src/json.cpp.obj.d"
   "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/modbus_server.cpp" "CMakeFiles/a70core.dir/core/src/modbus_server.cpp.obj" "msvc" "CMakeFiles/a70core.dir/core/src/modbus_server.cpp.obj.d"
+  "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/real_reference_data.cpp" "CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.obj" "msvc" "CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.obj.d"
   "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/recorder.cpp" "CMakeFiles/a70core.dir/core/src/recorder.cpp.obj" "msvc" "CMakeFiles/a70core.dir/core/src/recorder.cpp.obj.d"
   "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/sim_backend.cpp" "CMakeFiles/a70core.dir/core/src/sim_backend.cpp.obj" "msvc" "CMakeFiles/a70core.dir/core/src/sim_backend.cpp.obj.d"
   "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/core/src/spinnaker_backend.cpp" "CMakeFiles/a70core.dir/core/src/spinnaker_backend.cpp.obj" "msvc" "CMakeFiles/a70core.dir/core/src/spinnaker_backend.cpp.obj.d"

@@ -9,12 +9,15 @@
 #include <QDoubleSpinBox>
 #include <QFileDialog>
 #include <QFileInfo>
+#include <QFileSystemWatcher>
 #include <QFormLayout>
+#include <QImage>
 #include <QGroupBox>
 #include <QHBoxLayout>
 #include <QHeaderView>
 #include <QLabel>
 #include <QLineEdit>
+#include <QListWidget>
 #include <QMessageBox>
 #include <QPixmap>
 #include <QPushButton>
@@ -28,6 +31,7 @@
 #include <QToolBar>
 #include <QToolButton>
 #include <QVBoxLayout>
+#include <algorithm>
 #include <cmath>
 #ifdef A70_HAVE_SVG
 #include <QPainter>
@@ -99,6 +103,7 @@ MainWindow::MainWindow(const GuiOptions& opt, QWidget* parent) : QMainWindow(par
     panel->addTab(buildCapture(), "Capture");
     panel->addTab(buildModbus(), "Modbus");
     panel->addTab(buildMeasurements(), "Measurements");
+    panel->addTab(buildCaptures(), "Captures");
     auto* scroll = new QScrollArea;
     scroll->setWidget(panel);
     scroll->setWidgetResizable(true);
@@ -272,6 +277,13 @@ QGroupBox* MainWindow::buildDisplay() {
     auto* bClear = new QPushButton("Clear tools");
     connect(bClear, &QPushButton::clicked, this, [this] { onRoisEdited({}); });
     f->addRow(row({chkExtremes_, bClear}));
+
+    chkRealRef_ = new QCheckBox("Real reference capture (static, not simulated)");
+    chkRealRef_->setToolTip("Shows a genuine real FLIR camera capture (not live, not procedurally "
+                             "simulated) for comparison. Available on the simulator backend only.");
+    chkRealRef_->setEnabled(false);
+    connect(chkRealRef_, &QCheckBox::toggled, this, &MainWindow::toggleRealReference);
+    f->addRow(chkRealRef_);
     return g;
 }
 
@@ -414,6 +426,104 @@ QGroupBox* MainWindow::buildMeasurements() {
     return g;
 }
 
+QWidget* MainWindow::buildCaptures() {
+    auto* g = new QWidget;
+    auto* h = new QHBoxLayout(g);
+    capturesList_ = new QListWidget;
+    capturesList_->setMaximumWidth(220);
+    capturesList_->setToolTip("TIFF snapshots in the capture folder (Capture tab 'Folder'), newest first");
+    connect(capturesList_, &QListWidget::currentItemChanged, this,
+            [this](QListWidgetItem* cur, QListWidgetItem*) { onCaptureSelected(cur); });
+    h->addWidget(capturesList_);
+
+    auto* right = new QVBoxLayout;
+    auto* previews = new QHBoxLayout;
+    captureThermalPreview_ = new QLabel("(select a capture)");
+    captureThermalPreview_->setAlignment(Qt::AlignCenter);
+    captureThermalPreview_->setMinimumSize(280, 210);
+    captureThermalPreview_->setStyleSheet("background:#101214; color:gray;");
+    captureVisualPreview_ = new QLabel("(no visual companion)");
+    captureVisualPreview_->setAlignment(Qt::AlignCenter);
+    captureVisualPreview_->setMinimumSize(280, 210);
+    captureVisualPreview_->setStyleSheet("background:#101214; color:gray;");
+    previews->addWidget(captureThermalPreview_, 1);
+    previews->addWidget(captureVisualPreview_, 1);
+    right->addLayout(previews, 1);
+    captureInfoLabel_ = new QLabel;
+    captureInfoLabel_->setWordWrap(true);
+    captureInfoLabel_->setStyleSheet("font-family: monospace; color:#9aa0a6;");
+    right->addWidget(captureInfoLabel_);
+    h->addLayout(right, 1);
+
+    capturesWatcher_ = new QFileSystemWatcher(this);
+    connect(capturesWatcher_, &QFileSystemWatcher::directoryChanged, this, &MainWindow::refreshCapturesList);
+    connect(edFolder_, &QLineEdit::textChanged, this, [this] { refreshCapturesList(); });
+    QTimer::singleShot(0, this, &MainWindow::refreshCapturesList);  // after edFolder_'s default value settles
+    return g;
+}
+
+void MainWindow::refreshCapturesList() {
+    if (!capturesList_) return;
+    QString folder = edFolder_->text().trimmed();
+    for (const QString& p : capturesWatcher_->directories()) capturesWatcher_->removePath(p);
+    if (!folder.isEmpty() && QDir(folder).exists()) capturesWatcher_->addPath(folder);
+
+    QString keepSelected = capturesList_->currentItem() ? capturesList_->currentItem()->text() : QString();
+    capturesList_->clear();
+    QDir dir(folder);
+    if (!dir.exists()) return;
+    QFileInfoList files = dir.entryInfoList({"*.tiff"}, QDir::Files);
+    std::sort(files.begin(), files.end(),
+              [](const QFileInfo& a, const QFileInfo& b) { return a.lastModified() > b.lastModified(); });  // newest first
+    for (const QFileInfo& fi : files) capturesList_->addItem(fi.fileName());
+    if (!keepSelected.isEmpty()) {
+        auto found = capturesList_->findItems(keepSelected, Qt::MatchExactly);
+        if (!found.isEmpty()) capturesList_->setCurrentItem(found.first());
+    }
+}
+
+void MainWindow::onCaptureSelected(QListWidgetItem* item) {
+    if (!item) return;
+    QString path = QDir(edFolder_->text().trimmed()).filePath(item->text());
+
+    std::vector<uint16_t> counts;
+    int w = 0, h = 0;
+    std::string desc;
+    if (!readTiff16(path.toStdString(), counts, w, h, desc) || w <= 0 || h <= 0) {
+        captureThermalPreview_->setText("Could not read this TIFF");
+        captureThermalPreview_->setPixmap({});
+        return;
+    }
+    double scale = 0.01;
+    jsonFindNumber(desc, "scale_K_per_count", scale);
+    std::vector<float> tempC(counts.size());
+    double lo = 1e9, hi = -1e9, sum = 0;
+    for (size_t i = 0; i < counts.size(); ++i) {
+        tempC[i] = float(counts[i] * scale - 273.15);
+        lo = std::min(lo, double(tempC[i]));
+        hi = std::max(hi, double(tempC[i]));
+        sum += tempC[i];
+    }
+    std::vector<uint8_t> rgb(tempC.size() * 3);
+    colorize(tempC.data(), tempC.size(), lo, hi, cmbPalette_->currentText().toStdString(), rgb.data());
+    QImage img(rgb.data(), w, h, 3 * w, QImage::Format_RGB888);
+    captureThermalPreview_->setPixmap(
+        QPixmap::fromImage(img).scaled(captureThermalPreview_->size(), Qt::KeepAspectRatio, Qt::SmoothTransformation));
+    captureInfoLabel_->setText(QString("%1x%2   min %3  max %4  mean %5 °C")
+                                    .arg(w).arg(h).arg(lo, 0, 'f', 1).arg(hi, 0, 'f', 1)
+                                    .arg(sum / double(tempC.size()), 0, 'f', 1));
+
+    QString visualPath = path.left(path.size() - 5) + "_visual.png";  // strip ".tiff"
+    QPixmap vpix(visualPath);
+    if (!vpix.isNull()) {
+        captureVisualPreview_->setPixmap(
+            vpix.scaled(captureVisualPreview_->size(), Qt::KeepAspectRatio, Qt::SmoothTransformation));
+    } else {
+        captureVisualPreview_->setPixmap({});
+        captureVisualPreview_->setText("(no visual companion)");
+    }
+}
+
 // ================================================================ helpers
 void MainWindow::err(const QString& msg, bool popup) {
     statusBar()->showMessage(msg, 10000);
@@ -426,10 +536,22 @@ void MainWindow::setConnectedUi(bool on) {
     cmbDevice_->setEnabled(!on);
     grpCamera_->setEnabled(on);
     grpCapture_->setEnabled(on);
+    chkRealRef_->setEnabled(on && eng_ && eng_->camera() && eng_->camera()->backend().has("RealReferenceCapture"));
+    if (!chkRealRef_->isEnabled()) {
+        QSignalBlocker b(chkRealRef_);
+        chkRealRef_->setChecked(false);
+    }
     if (!on) {
         view_->clearFrame();
         lblHealth_->clear();
     }
+}
+
+void MainWindow::toggleRealReference(bool on) {
+    if (!eng_ || !eng_->camera()) return;
+    auto& be = eng_->camera()->backend();
+    if (!be.has("RealReferenceCapture")) return;
+    be.setString("RealReferenceCapture", on ? "1" : "0");
 }
 
 void MainWindow::setOutput(const QString& folder, const QString& prefix) {
@@ -440,6 +562,14 @@ void MainWindow::setBoxRange(bool on) { chkBoxRange_->setChecked(on); }
 void MainWindow::enableModbus(int port) {
     spPort_->setValue(port);
     chkModbus_->setChecked(true);
+}
+
+void MainWindow::showCapturesTabForTest() {
+    auto* tabs = qobject_cast<QTabWidget*>(panel_);
+    if (!tabs) return;
+    tabs->setCurrentWidget(capturesList_->parentWidget());
+    refreshCapturesList();
+    if (capturesList_->count() > 0) capturesList_->setCurrentRow(0);
 }
 
 void MainWindow::setPanelVisible(bool on) {
@@ -726,6 +856,13 @@ void MainWindow::updateStatus() {
             lblHealth_->setText(QString::fromUtf8("● STALE"));
             lblHealth_->setStyleSheet("color:#e0a030; font-weight:bold;");
             view_->setOverlayText(QString::fromUtf8("No new frames — image is stale"), QColor(255, 180, 60));
+        } else if (chkRealRef_->isChecked()) {
+            // real (not simulated) static capture — must never read as LIVE or as the procedural sim
+            lblHealth_->setText(QString::fromUtf8("● REAL CAPTURE (static)"));
+            lblHealth_->setStyleSheet("color:#006CB8; font-weight:bold;");
+            view_->setOverlayText(
+                QString::fromUtf8("Real FLIR reference capture — static frame, not live, not simulated"),
+                QColor(0x6c, 0xc8, 0xff));
         } else {
             lblHealth_->setText(s.anyAlarm ? QString::fromUtf8("● ALARM") : QString::fromUtf8("● LIVE"));
             // brand red/green — reserved for these two real engine states, not decoration

@@ -13,6 +13,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/a70core.dir/core/src/json.cpp.obj.d"
   "CMakeFiles/a70core.dir/core/src/modbus_server.cpp.obj"
   "CMakeFiles/a70core.dir/core/src/modbus_server.cpp.obj.d"
+  "CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.obj"
+  "CMakeFiles/a70core.dir/core/src/real_reference_data.cpp.obj.d"
   "CMakeFiles/a70core.dir/core/src/recorder.cpp.obj"
   "CMakeFiles/a70core.dir/core/src/recorder.cpp.obj.d"
   "CMakeFiles/a70core.dir/core/src/sim_backend.cpp.obj"

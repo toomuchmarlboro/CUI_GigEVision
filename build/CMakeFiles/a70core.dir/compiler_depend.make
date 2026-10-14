@@ -329,6 +329,9 @@ CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Do
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h"
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array"
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath"
+CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm"
+CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp"
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono"
 CMakeFiles\a70core.dir\core\src\camera.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h"
 
@@ -1093,6 +1096,18 @@ CMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj: "C:\Program Files (x86)\W
 CMakeFiles\a70core.dir\core\src\modbus_server.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\qos.h"
 
 
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\real_reference_data.cpp"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\real_reference.h"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h"
+CMakeFiles\a70core.dir\core\src\real_reference_data.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h"
+
+
 CMakeFiles\a70core.dir\core\src\recorder.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\recorder.cpp"
 CMakeFiles\a70core.dir\core\src\recorder.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h"
 CMakeFiles\a70core.dir\core\src\recorder.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic"
@@ -1423,6 +1438,7 @@ CMakeFiles\a70core.dir\core\src\sim_backend.cpp.obj: "C:\Program Files (x86)\Mic
 CMakeFiles\a70core.dir\core\src\sim_backend.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h"
 CMakeFiles\a70core.dir\core\src\sim_backend.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string"
 CMakeFiles\a70core.dir\core\src\sim_backend.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\types.h"
+CMakeFiles\a70core.dir\core\src\sim_backend.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\real_reference.h"
 
 
 CMakeFiles\a70core.dir\core\src\spinnaker_backend.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\spinnaker_backend.cpp"
@@ -2136,9 +2152,9 @@ C:\vcpkg\installed\x64-windows\include\H5FDcore.h:
 
 C:\vcpkg\installed\x64-windows\include\modbus\modbus-rtu.h:
 
-"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp":
-
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp":
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h":
 
@@ -2212,6 +2228,8 @@ C:\vcpkg\installed\x64-windows\include\H5FDonion.h:
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp":
+
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um\timezoneapi.h":
@@ -2257,8 +2275,6 @@ C:\vcpkg\installed\x64-windows\include\zconf.h:
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xloctime":
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\filesystem":
-
-"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp":
 
 "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iomanip":
 
@@ -2541,6 +2557,10 @@ C:\vcpkg\installed\x64-windows\include\H5Fpublic.h:
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\ws2def.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared\inaddr.h":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\src\real_reference_data.cpp":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\real_reference.h":
 
 C:\vcpkg\installed\x64-windows\include\hdf5.h:
 
