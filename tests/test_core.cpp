@@ -1,7 +1,9 @@
 // Unit / integration tests that need no camera (simulator backend).
 #include <cmath>
 #include <cstdio>
+#include <cstring>
 #include <filesystem>
+#include <fstream>
 #include <thread>
 
 #include "a70/engine.h"
@@ -126,6 +128,48 @@ static void testVisualCapture(const std::string& dir) {
     auto p = e.snapshot(&err);
     CHECK(p.has_value());
     CHECK(!p->visual.empty() && fs::exists(p->visual));
+}
+
+// readTiff16 must also accept externally-sourced 32-bit float radiometric TIFFs (other
+// thermal software's common export convention: each pixel already calibrated °C) — not
+// just this project's own uint16-counts format. Hand-build a minimal 2x2 one.
+static void writeMinimalFloat32Tiff(const std::string& path, float v00, float v01, float v10, float v11) {
+    auto put16 = [](std::vector<uint8_t>& b, uint16_t v) { b.push_back(v & 0xFF); b.push_back(v >> 8); };
+    auto put32 = [](std::vector<uint8_t>& b, uint32_t v) {
+        b.push_back(v & 0xFF); b.push_back((v >> 8) & 0xFF); b.push_back((v >> 16) & 0xFF); b.push_back((v >> 24) & 0xFF);
+    };
+    std::vector<uint8_t> b;
+    b.push_back('I'); b.push_back('I'); put16(b, 42); put32(b, 8);  // header, IFD at offset 8
+    constexpr uint32_t kStripOff = 8 + 2 + 6 * 12 + 4;
+    put16(b, 6);  // 6 IFD entries
+    auto entry = [&](uint16_t id, uint16_t type, uint32_t cnt, uint32_t val) {
+        put16(b, id); put16(b, type); put32(b, cnt);
+        if (type == 3) { put16(b, uint16_t(val)); put16(b, 0); } else put32(b, val);
+    };
+    entry(256, 4, 1, 2);            // Width
+    entry(257, 4, 1, 2);            // Height
+    entry(258, 3, 1, 32);           // BitsPerSample
+    entry(259, 3, 1, 1);            // Compression = none
+    entry(273, 4, 1, kStripOff);    // StripOffsets
+    entry(339, 3, 1, 3);            // SampleFormat = IEEE float
+    put32(b, 0);                    // next IFD = none
+    auto putF = [&](float f) { uint32_t u; std::memcpy(&u, &f, 4); put32(b, u); };
+    putF(v00); putF(v01); putF(v10); putF(v11);
+    std::ofstream(path, std::ios::binary).write(reinterpret_cast<char*>(b.data()), long(b.size()));
+}
+
+static void testExternalFloat32Tiff(const std::string& dir) {
+    std::string path = joinPath(dir, "external_float32.tiff");
+    writeMinimalFloat32Tiff(path, 28.66f, 28.67f, 28.53f, 28.46f);
+    std::vector<uint16_t> counts;
+    int w = 0, h = 0;
+    std::string desc;
+    CHECK(readTiff16(path, counts, w, h, desc));
+    CHECK(w == 2 && h == 2 && counts.size() == 4);
+    double scale = 0;
+    CHECK(jsonFindNumber(desc, "scale_K_per_count", scale) && std::fabs(scale - 0.01) < 1e-12);
+    CHECK(std::fabs((counts[0] * scale - 273.15) - 28.66) < 0.01);
+    CHECK(std::fabs((counts[3] * scale - 273.15) - 28.46) < 0.01);
 }
 
 static void testFiles(const std::string& dir) {
@@ -279,6 +323,7 @@ int main() {
     testSimRealism();
     testRealReferenceCapture();
     testVisualCapture(dir);
+    testExternalFloat32Tiff(dir);
     testFiles(dir);
     testRecorder(dir);
     testEngine(dir);

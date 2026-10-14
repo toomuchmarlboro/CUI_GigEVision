@@ -2,6 +2,7 @@
 
 #include <zlib.h>
 
+#include <algorithm>
 #include <cmath>
 #include <cstdio>
 #include <cstring>
@@ -110,7 +111,7 @@ bool readTiff16(const std::string& path, std::vector<uint16_t>& data, int& w, in
     uint32_t ifd = r32(4);
     if (ifd + 2 > b.size()) return false;
     uint16_t n = r16(ifd);
-    uint32_t off = 0, bps = 16, comp = 1;
+    uint32_t off = 0, bps = 16, comp = 1, sampleFormat = 1;  // SampleFormat: 1=uint, 2=int, 3=IEEE float
     w = h = 0;
     for (uint16_t i = 0; i < n; ++i) {
         size_t e = ifd + 2 + size_t(i) * 12;
@@ -123,11 +124,34 @@ bool readTiff16(const std::string& path, std::vector<uint16_t>& data, int& w, in
         else if (id == 258) bps = val;
         else if (id == 259) comp = val;
         else if (id == 273) off = val;
+        else if (id == 339) sampleFormat = val;
         else if (id == 270 && val + cnt <= b.size()) desc.assign(reinterpret_cast<char*>(&b[val]), cnt ? cnt - 1 : 0);
     }
-    if (bps != 16 || comp != 1 || w <= 0 || h <= 0 || off + size_t(w) * h * 2 > b.size()) return false;
+    if (comp != 1 || w <= 0 || h <= 0) return false;
+    // Our own files: uint16 counts, °C via the scale_K_per_count in the JSON description.
+    // Externally-sourced radiometric TIFFs (other thermal software) commonly use 32-bit IEEE
+    // float samples that are already calibrated °C directly — accept those too, re-encoded
+    // into our own 0.01 K/count representation so every caller (CLI, GUI) keeps one code path.
+    bool isFloat32 = bps == 32 && sampleFormat == 3;
+    if (!isFloat32 && bps != 16) return false;
+    size_t bytesPerSample = isFloat32 ? 4 : 2;
+    if (off + size_t(w) * h * bytesPerSample > b.size()) return false;
     data.resize(size_t(w) * h);
-    for (size_t i = 0; i < data.size(); ++i) data[i] = r16(off + 2 * i);
+    if (isFloat32) {
+        for (size_t i = 0; i < data.size(); ++i) {
+            uint32_t bits = r32(off + 4 * i);
+            float tC;
+            std::memcpy(&tC, &bits, sizeof tC);
+            data[i] = static_cast<uint16_t>(std::clamp(std::lround((double(tC) + 273.15) / 0.01), 0L, 65535L));
+        }
+        double existingScale;
+        if (!jsonFindNumber(desc, "scale_K_per_count", existingScale))
+            desc += (desc.empty() ? "" : " ") +
+                    std::string("{\"scale_K_per_count\":0.01,\"source\":\"external 32-bit float TIFF, "
+                                "assumed already-calibrated degC\"}");
+    } else {
+        for (size_t i = 0; i < data.size(); ++i) data[i] = r16(off + 2 * i);
+    }
     return true;
 }
 

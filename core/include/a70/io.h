@@ -23,6 +23,10 @@ void makeDirs(const std::string& path);
 double freeSpaceMB(const std::string& path);  // -1 if unknown
 
 void writeTiff16(const std::string& path, const uint16_t* data, int w, int h, const std::string& description);
+// Reads our own uint16-counts TIFFs, and also accepts externally-sourced 32-bit IEEE-float
+// radiometric TIFFs (a common convention in other thermal software, where each pixel is
+// already calibrated °C) — re-encoded transparently into our own 0.01 K/count counts, so
+// callers always get the same uint16/description contract regardless of source.
 bool readTiff16(const std::string& path, std::vector<uint16_t>& data, int& w, int& h, std::string& description);
 void writePngRgb(const std::string& path, const uint8_t* rgb, int w, int h);
 void writeCsvCelsius(const std::string& path, const ThermalFrame& f);

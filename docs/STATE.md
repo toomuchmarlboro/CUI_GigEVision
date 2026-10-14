@@ -255,3 +255,30 @@ anticipated but never wired through). This does not actually require installing 
 - Not verified: the real A70's actual visual-mode pixel format/behavior (stated up front —
   simulator-only until real hardware is available); an interactive on-screen run (only
   offscreen selftest was used).
+
+---
+
+## Bugfix: Captures tab couldn't open externally-sourced 32-bit float TIFFs
+
+Operator dropped a real external TIFF ("Anterior (Front).tiff", 640×480) into the captures
+folder to try the new viewer — it failed with "Could not read this TIFF". Root cause:
+`io.cpp`'s `readTiff16` is a minimal hand-rolled parser built only for this project's own
+uint16-counts format (`bps != 16` → immediate `return false`); the external file uses
+32-bit IEEE-float samples (`SampleFormat=3`), a common convention in other thermal software
+where each pixel is already calibrated °C.
+
+- Built: `readTiff16` now also accepts `bps=32 && SampleFormat=3` TIFFs, re-encoding the
+  float °C values into this project's own 0.01 K/count representation on the fly, so every
+  existing caller (GUI Captures tab, `a70_cli csv`) keeps working against one contract
+  without any caller-side changes. If the file's description doesn't already carry a
+  `scale_K_per_count`, one is appended so downstream readers stay correct.
+- Files: `core/include/a70/io.h`, `core/src/io.cpp`.
+- Verified: new test `testExternalFloat32Tiff` (hand-builds a minimal valid 32-bit-float
+  TIFF, confirms correct decode) — `a70_tests` passes; additionally cross-checked directly
+  against the operator's actual file via a throwaway standalone verification program linked
+  against the real `a70core.lib` (not a mockup) — now opens cleanly: 640×480, temperature
+  range 20.11–34.26°C, physically plausible for the real-world "Anterior (Front)" capture.
+- Not verified: whether other thermal software's 32-bit float TIFFs always use this exact
+  tag layout (single uncompressed strip) — this project's TIFF reader has never supported
+  multi-strip or compressed TIFFs for its own format either, so this isn't a new limitation,
+  just an existing one that now also applies to the float path.
