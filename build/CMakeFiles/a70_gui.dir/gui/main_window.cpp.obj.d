@@ -503,8 +503,11 @@ C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qstatusbar.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QTableWidget
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qtablewidget.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qtableview.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QTabWidget
 C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QTimer
 C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qtimer.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QToolBar
+C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qtoolbar.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QToolButton
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qtoolbutton.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QVBoxLayout

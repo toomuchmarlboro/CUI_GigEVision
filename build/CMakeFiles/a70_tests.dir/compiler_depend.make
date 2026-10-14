@@ -307,8 +307,181 @@ a70_tests_autogen\timestamp: C:\vcpkg\installed\x64-windows\share\zlib\vcpkg-cma
 a70_tests_autogen\timestamp: C:\vcpkg\scripts\buildsystems\vcpkg.cmake
 
 
+CMakeFiles\a70_tests.dir\a70_tests_autogen\mocs_compilation.cpp.obj: a70_tests_autogen\mocs_compilation.cpp
+
+
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\tests\test_core.cpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\filesystem"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iomanip"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\istream"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_ostream.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ios"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocnum"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\streambuf"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xiosbase"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\share.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocale"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfacet"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocinfo"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_xlocinfo_types.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\clocale"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\locale.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmon"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xloctime"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\locale"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocbuf"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmes"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\thread"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_startup.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\engine.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\condition_variable"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mutex"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\deque"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\types.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\json.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\io.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h"
+CMakeFiles\a70_tests.dir\tests\test_core.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\modbus_server.h"
+
+
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h":
 
 "C:\Program Files\CMake\bin\cmake.exe":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\types.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\GHS-DetermineCompiler.cmake":
 
@@ -316,11 +489,17 @@ a70_tests_autogen\timestamp: C:\vcpkg\scripts\buildsystems\vcpkg.cmake
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Fujitsu-DetermineCompiler.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCXXCompiler.cmake.in":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CheckIncludeFileCXX.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDependentOption.cmake":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiVersionlessAliasTargets.cmake:
 
@@ -329,6 +508,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiVersionlessAliasTargets.cmake:
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\CMakeCommonCompilerMacros.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCXXCompilerABI.cpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineRCCompiler.cmake":
 
@@ -364,6 +545,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomCommonGenerationHelpers.cma
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeSystemSpecificInformation.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\istream":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCompilerId.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeNMakeFindMake.cmake":
@@ -373,6 +556,10 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginAdditi
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCompilerSupport.cmake":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\io.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomGenerationHelpers.cmake:
 
@@ -390,6 +577,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginTargets-release.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeGenericSystem.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsConfig.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CheckFlagCommonConfig.cmake":
@@ -397,6 +586,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsConfig.cmake:
 "C:\Program Files\CMake\share\cmake-4.4\Modules\FindPackageMessage.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Clang-DetermineCompilerInternal.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfacet":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargets.cmake:
 
@@ -410,6 +601,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomRelationshipHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\IntelLLVM-DetermineCompiler.cmake":
 
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\IBMCPP-CXX-DetermineVersionInternal.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeParseImplicitLinkInfo.cmake":
@@ -418,9 +611,15 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomRelationshipHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\ADSP-DetermineCompiler.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mutex":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeRCCompiler.cmake.in":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeRCInformation.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreConfigExtras.cmake:
 
@@ -438,7 +637,13 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginAdditionalTargetInfo.c
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeTestCompilerCommon.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeTestRCCompiler.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_ostream.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Borland-DetermineCompiler.cmake":
 
@@ -448,11 +653,19 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginAdditionalTargetInfo.c
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CheckCXXSourceCompiles.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomOpsHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CheckLibraryExists.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\ARMClang-DetermineCompiler.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\SunPro-CXX-DetermineCompiler.cmake":
 
@@ -478,11 +691,15 @@ C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets-debug.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\LCC-CXX-DetermineCompiler.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Diab-DetermineCompiler.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Tasking-DetermineCompiler.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Embarcadero-DetermineCompiler.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\PathScale-DetermineCompiler.cmake":
 
@@ -520,6 +737,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets.cmak
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\SCO-DetermineCompiler.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\TI-DetermineCompiler.cmake":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginConfig.cmake:
@@ -527,6 +746,10 @@ C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginConf
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets-debug.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\TIClang-DetermineCompiler.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Watcom-DetermineCompiler.cmake":
 
@@ -557,6 +780,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsPlugins.cmake:
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicTargetHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\GNUInstallDirs.cmake":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake:
 
@@ -590,6 +815,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginConfig.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Windows-MSVC.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\streambuf":
+
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsAdditionalTargetInfo.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Windows.cmake":
@@ -602,11 +829,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsAdditionalTargetInfo
 
 CMakeFiles\4.4.3\CMakeCXXCompiler.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\thread":
+
 CMakeFiles\4.4.3\CMakeRCCompiler.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map":
 
 CMakeFiles\4.4.3\CMakeSystem.cmake:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\tests\test_core.cpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\locale":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\FindWrapAtomic.cmake:
 
@@ -614,9 +847,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6\Qt6ConfigExtras.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6ConfigVersion.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6ConfigVersionImpl.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6Dependencies.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6Targets.cmake:
 
@@ -632,13 +873,19 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtFeatureCommon.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtInstallPaths.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicAndroidHelpers.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\clocale":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicGitHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicAppleHelpers.cmake:
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginTargets-debug.cmake:
 
@@ -650,13 +897,21 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeIncludeGuardHelpers.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeVersionHelpers.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicDependencyHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicFinalizerHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicFindPackageHelpers.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicJsonHelpers.cmake:
 
@@ -670,6 +925,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomAttributionHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomBuildToolHelpers.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocinfo":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreDependencies.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomCpeHelpers.cmake:
@@ -680,9 +937,13 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomDocumentNamespaceHelpers.cm
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomExternalReferenceHelpers.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomGenerationCycloneDXHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomHelpers.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreConfigVersionImpl.cmake:
 
@@ -698,6 +959,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicTestHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicToolHelpers.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicWalkLibsHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreAdditionalTargetInfo.cmake:
@@ -710,6 +973,12 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginAdditionalTargetI
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreMacros.cmake:
 
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiConfigVersionImpl.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets-debug.cmake:
@@ -717,6 +986,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets-debug.cmake:
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets-release.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargetsPrecheck.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xiosbase":
 
 C:\vcpkg\installed\x64-windows\share\libaec\libaec_shared-targets.cmake:
 
@@ -729,6 +1000,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfig.cmake:
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfigVersion.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsDependencies.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic":
 
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsTargets-release.cmake:
 
@@ -760,11 +1033,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateVe
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiAdditionalTargetInfo.cmake:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiConfig.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiPlugins.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargets-debug.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargets-release.cmake:
 
@@ -776,6 +1055,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginAdditionalTargetInfo.cm
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginConfig.cmake:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargetsPrecheck.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargets-debug.cmake:
@@ -785,6 +1066,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargets-release.cmake:
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargetsPrecheck.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginAdditionalTargetInfo.cmake:
 
@@ -812,6 +1095,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginTargets-
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginTargetsPrecheck.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginConfig.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsConfigVersionImpl.cmake:
@@ -828,7 +1113,11 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginTargetsPrecheck.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargets-debug.cmake:
 
@@ -837,6 +1126,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPlugin
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargetsPrecheck.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake:
 
@@ -850,7 +1141,13 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsIntegrationPluginTargetsP
 
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsConfig.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xloctime":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\filesystem":
+
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsConfigVersion.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\share.h":
 
 C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-targets-release.cmake:
 
@@ -862,11 +1159,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargetsPrecheck.cmake:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsVersionlessTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginTargets-debug.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginTargets-release.cmake:
 
@@ -875,6 +1178,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginTarg
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginTargetsPrecheck.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsAdditionalTargetInfo.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsTargets-release.cmake:
 
@@ -890,7 +1195,11 @@ C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsTargets-debug.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsAdditionalTargetInfo.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio":
+
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfig.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfigVersion.cmake:
 
@@ -898,7 +1207,11 @@ C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets-debu
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsVersionlessTargets.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath":
+
 C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-config-version.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h":
 
 C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-config.cmake:
 
@@ -915,3 +1228,185 @@ C:\vcpkg\installed\x64-windows\share\libaec\libaec_shared-targets-release.cmake:
 C:\vcpkg\installed\x64-windows\share\zlib\vcpkg-cmake-wrapper.cmake:
 
 C:\vcpkg\scripts\buildsystems\vcpkg.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h":
+
+a70_tests_autogen\mocs_compilation.cpp:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_xlocinfo_types.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\engine.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iomanip":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_startup.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ios":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocnum":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocale":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\locale.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmon":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocbuf":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmes":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\condition_variable":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\deque":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\json.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\modbus_server.h":

@@ -1,0 +1,59 @@
+{
+  "camera_model": "FLIR A70 (simulated)",
+  "camera_serial": "SIM-0001",
+  "camera_vendor": "FLIR Systems",
+  "backend": "sim",
+  "ir_format": "TemperatureLinear10mK",
+  "scale_K_per_count": 0.01,
+  "offset_K": 0,
+  "conversion": "T_degC = counts * scale_K_per_count - 273.15",
+  "width": 640,
+  "height": 480,
+  "captured_utc": "2026-10-14T07:39:12Z",
+  "software": "a70_thermal C++ 0.2.0",
+  "object_parameters": {
+    "atmospheric_temp": 30,
+    "distance": 3,
+    "emissivity": 0.95,
+    "humidity": 0.75,
+    "reflected_temp": 30
+  },
+  "frame_rate_hz": 30,
+  "measurement_range": "-20C to 175C",
+  "DeviceFirmwareVersion": "sim-1.0",
+  "DeviceTemperature": "309.2",
+  "frame_host_time_ns": 1791963552514292500,
+  "camera_timestamp": 3006986899,
+  "frame_id": 91,
+  "stats": {
+    "min_C": 27.86,
+    "max_C": 85.19,
+    "mean_C": 30.877,
+    "max_xy": [467,249],
+    "min_xy": [78,479]
+  },
+  "rois": {
+    "Bx1": {
+      "type": "box",
+      "rect": [160,230,290,325],
+      "max": 39.42,
+      "min": 28.53,
+      "mean": 35.008,
+      "max_xy": [222,271],
+      "alarm_above_C": 38,
+      "alarm": true
+    },
+    "Sp1": {
+      "type": "spot",
+      "x": 470,
+      "y": 250,
+      "value": 84.93
+    },
+    "Sp2": {
+      "type": "spot",
+      "x": 100,
+      "y": 400,
+      "value": 28.4
+    }
+  }
+}

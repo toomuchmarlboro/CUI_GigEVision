@@ -21,7 +21,9 @@
 #include <QSpinBox>
 #include <QStatusBar>
 #include <QTableWidget>
+#include <QTabWidget>
 #include <QTimer>
+#include <QToolBar>
 #include <QToolButton>
 #include <QVBoxLayout>
 #include <cmath>
@@ -73,23 +75,47 @@ MainWindow::MainWindow(const GuiOptions& opt, QWidget* parent) : QMainWindow(par
     left->addWidget(tip);
     h->addLayout(left, 1);
 
-    auto* panel = new QWidget;
+    auto* panel = new QTabWidget;
     panel_ = panel;
-    auto* pv = new QVBoxLayout(panel);
-    pv->addWidget(buildConnection());
-    pv->addWidget(buildDisplay());
-    pv->addWidget(buildCamera());
-    pv->addWidget(buildCapture());
-    pv->addWidget(buildModbus());
-    pv->addWidget(buildMeasurements(), 1);
+    panel->addTab(buildConnection(), "Connection");
+    panel->addTab(buildDisplay(), "Display");
+    panel->addTab(buildCamera(), "Camera");
+    panel->addTab(buildCapture(), "Capture");
+    panel->addTab(buildModbus(), "Modbus");
+    panel->addTab(buildMeasurements(), "Measurements");
     auto* scroll = new QScrollArea;
     scroll->setWidget(panel);
     scroll->setWidgetResizable(true);
-    scroll->setFixedWidth(500);
+    scroll->setFixedWidth(600);  // wide enough that all 6 tab labels fit without overflow arrows
     scroll->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
+    panelScroll_ = scroll;
     h->addWidget(scroll);
     setCentralWidget(central);
     statusBar()->showMessage(QString("Ready (Qt %1)").arg(qVersion()));
+
+    // always-visible toolbar: day-to-day actions stay reachable with the settings
+    // drawer closed. btnConnect_ / btnRecord_ were constructed (and wired to their
+    // slots) inside buildConnection()/buildCapture() above; they live here instead.
+    auto* tb = addToolBar("Main");
+    tb->setMovable(false);
+    tb->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
+    btnSettings_ = new QToolButton;
+    btnSettings_->setText(QString::fromUtf8("⚙  Settings"));
+    btnSettings_->setCheckable(true);
+    btnSettings_->setToolTip("Show/hide connection, display, camera, capture, Modbus and measurement settings (Ctrl+,)");
+    connect(btnSettings_, &QToolButton::toggled, this, &MainWindow::setPanelVisible);
+    tb->addWidget(btnSettings_);
+    tb->addSeparator();
+    tb->addWidget(btnConnect_);
+    btnSnapshot_ = new QPushButton(QString::fromUtf8("📷  Snapshot"));
+    connect(btnSnapshot_, &QPushButton::clicked, this, &MainWindow::snapshot);
+    tb->addWidget(btnSnapshot_);
+    tb->addWidget(btnRecord_);
+    new QShortcut(QKeySequence("Ctrl+,"), this, [this] { btnSettings_->toggle(); });
+
+    const bool panelVisible = settings_.value("ui/panelVisible", false).toBool();
+    btnSettings_->setChecked(panelVisible);
+    setPanelVisible(panelVisible);  // toggled() above only fires on a change
 
     connect(view_, &ThermalView::hovered, this, [this](int x, int y, double t) {
         lblCursor_->setText(x < 0 ? QString::fromUtf8("Cursor: –")
@@ -144,7 +170,7 @@ QGroupBox* MainWindow::buildConnection() {
     f->addRow("Resolution", cmbIrFmt_);
     btnConnect_ = new QPushButton("Connect");
     connect(btnConnect_, &QPushButton::clicked, this, [this] { eng_ ? disconnectCamera() : connectCamera(); });
-    f->addRow(btnConnect_);
+    // placed on the always-visible toolbar, not here — see MainWindow::MainWindow
     return g;
 }
 
@@ -256,10 +282,8 @@ QGroupBox* MainWindow::buildCapture() {
     edPrefix_ = new QLineEdit(settings_.value("prefix", "a70").toString());
     edPrefix_->setToolTip("File name prefix — use the line / tag number, e.g. PIPE-101");
     f->addRow("Prefix / tag", edPrefix_);
-    auto* bSnap = new QPushButton(QString::fromUtf8("📷  Snapshot"));
-    connect(bSnap, &QPushButton::clicked, this, &MainWindow::snapshot);
     chkCsv_ = new QCheckBox(QString::fromUtf8("also °C CSV"));
-    f->addRow(row({bSnap, chkCsv_}, 0));
+    f->addRow(chkCsv_);
     chkInterval_ = new QCheckBox("Every");
     spInterval_ = new QSpinBox;
     spInterval_->setRange(1, 86400);
@@ -287,7 +311,7 @@ QGroupBox* MainWindow::buildCapture() {
     btnRecord_->setEnabled(hdf5Available());
     if (!hdf5Available()) btnRecord_->setToolTip("This build has no HDF5 support");
     connect(btnRecord_, &QPushButton::toggled, this, &MainWindow::toggleRecord);
-    f->addRow(btnRecord_);
+    // placed on the always-visible toolbar, not here — see MainWindow::MainWindow
     lblRec_ = new QLabel;
     lblRec_->setWordWrap(true);
     f->addRow(lblRec_);
@@ -352,6 +376,15 @@ void MainWindow::setBoxRange(bool on) { chkBoxRange_->setChecked(on); }
 void MainWindow::enableModbus(int port) {
     spPort_->setValue(port);
     chkModbus_->setChecked(true);
+}
+
+void MainWindow::setPanelVisible(bool on) {
+    panelScroll_->setVisible(on);
+    if (btnSettings_->isChecked() != on) {
+        QSignalBlocker b(btnSettings_);
+        btnSettings_->setChecked(on);
+    }
+    settings_.setValue("ui/panelVisible", on);
 }
 
 void MainWindow::syncConfig() {

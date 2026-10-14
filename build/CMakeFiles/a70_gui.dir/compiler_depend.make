@@ -491,6 +491,2224 @@ a70_gui_autogen\timestamp: C:\vcpkg\installed\x64-windows\share\zlib\vcpkg-cmake
 a70_gui_autogen\timestamp: C:\vcpkg\scripts\buildsystems\vcpkg.cmake
 
 
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\mocs_compilation.cpp
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\moc_feature_browser.cpp
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\..\..\..\gui\feature_browser.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDialog
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialog.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsglobal.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiglobal.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobal.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdbool.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreglobal.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversionchecks.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfiginclude.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\version"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconfig.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcore-config.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfigmacros.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationdefinitions.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreexports.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationmarkers.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtclasshelpermacros.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtpreprocessorsupport.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qassert.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtnoop.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypes.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversion.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypeinfo.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsysinfo.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlogging.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qflags.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasicatomic.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic_cxx11.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qgenericatomic.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qyieldcpu.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconstructormacros.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdarwinhelpers.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qexceptionhandling.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qforeach.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttypetraits.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\variant"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionpointer.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobalstatic.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmalloc.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qminmax.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnumeric.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20type_traits.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qoverload.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qswap.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtenvironmentvariables.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtresource.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttranslation.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qversiontagging.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtgui-config.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiexports.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgets-config.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsexports.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qwidget.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnamespace.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstdlibdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcomparehelpers.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmetamacros.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionaltools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs_win.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearray.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrefcount.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydata.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpair.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydatapointer.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydataops.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxptype_traits.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23type_traits.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20functional.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20memory.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q17memory.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayalgorithms.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdarg.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayview.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string_view"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringalgorithms.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlatin1stringview.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qanystringview.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qutf8stringview.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringtokenizer.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter_base.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhashfunctions.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\numeric"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterator.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalgorithms.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20bit.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsimd.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringmatcher.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopedpointer.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatastream.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevicebase.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfloat16.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmath.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtformat_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterable.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtaggedpointer.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetacontainer.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerinfo.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopeguard.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbindingstorage.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmargins.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcheckedint_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23utility.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20utility.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qaction.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qkeysequence.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qicon.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsize.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixmap.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpaintdevice.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrect.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpoint.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcolor.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgba64.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qimage.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixelformat.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtransform.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpolygon.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qregion.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qspan.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cassert"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20iterator.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qline.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvariant.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdebug.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtextstream.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontiguouscache.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\set"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_set"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmap.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qset.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhash.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvarlengtharray.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalloc.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpalette.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbrush.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfont.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qendian.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontmetrics.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontinfo.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontvariableaxis.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qsizepolicy.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcursor.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbitmap.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mutex"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\thread"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_startup.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\types.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\json.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmochelpers.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmocconstants.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20algorithm.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\moc_main_window.cpp
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\..\..\..\gui\main_window.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMainWindow
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmainwindow.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtabwidget.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSettings
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsettings.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\engine.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\condition_variable"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\deque"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\io.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\modbus_server.h"
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\moc_thermal_view.cpp
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\..\..\..\gui\thermal_view.h
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QImage
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QPointF
+CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QWidget
+
+
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\feature_browser.cpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\feature_browser.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDialog
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialog.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsglobal.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiglobal.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobal.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdbool.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreglobal.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversionchecks.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfiginclude.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\version"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconfig.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcore-config.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfigmacros.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationdefinitions.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreexports.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationmarkers.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtclasshelpermacros.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtpreprocessorsupport.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qassert.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtnoop.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypes.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversion.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypeinfo.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsysinfo.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlogging.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qflags.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasicatomic.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic_cxx11.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qgenericatomic.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qyieldcpu.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconstructormacros.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdarwinhelpers.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qexceptionhandling.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qforeach.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttypetraits.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\variant"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionpointer.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobalstatic.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmalloc.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qminmax.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnumeric.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20type_traits.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qoverload.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qswap.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtenvironmentvariables.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtresource.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttranslation.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qversiontagging.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtgui-config.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiexports.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgets-config.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsexports.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qwidget.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnamespace.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstdlibdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcomparehelpers.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmetamacros.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionaltools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs_win.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearray.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrefcount.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydata.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpair.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydatapointer.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydataops.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxptype_traits.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23type_traits.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20functional.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20memory.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q17memory.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayalgorithms.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdarg.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string_view"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringalgorithms.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlatin1stringview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qanystringview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qutf8stringview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringtokenizer.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter_base.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhashfunctions.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\numeric"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterator.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalgorithms.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20bit.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsimd.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringmatcher.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopedpointer.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatastream.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevicebase.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfloat16.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmath.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtformat_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterable.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtaggedpointer.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetacontainer.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerinfo.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopeguard.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbindingstorage.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmargins.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcheckedint_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23utility.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20utility.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qaction.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qkeysequence.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qicon.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsize.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixmap.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpaintdevice.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrect.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpoint.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcolor.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgba64.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qimage.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixelformat.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtransform.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpolygon.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qregion.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qspan.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cassert"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20iterator.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qline.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvariant.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdebug.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtextstream.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontiguouscache.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\set"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_set"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmap.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qset.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhash.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvarlengtharray.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalloc.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpalette.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbrush.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfont.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qendian.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontmetrics.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontinfo.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontvariableaxis.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qsizepolicy.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcursor.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbitmap.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mutex"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\thread"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_startup.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\types.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\json.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFile
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfile.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfiledevice.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevice.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\filesystem"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iomanip"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\istream"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_ostream.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ios"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocnum"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\streambuf"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xiosbase"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\share.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocale"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfacet"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocinfo"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_xlocinfo_types.hpp"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\clocale"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\locale.h"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmon"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xloctime"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\locale"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocbuf"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmes"
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QFileDialog
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qfiledialog.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdir.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdirlisting.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatetime.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcalendar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlocale.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfileinfo.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtimezone.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qurl.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHBoxLayout
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qboxlayout.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayoutitem.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qboxlayout.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qgridlayout.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHeaderView
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qheaderview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractscrollarea.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qframe.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstractitemmodel.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qitemselectionmodel.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemdelegate.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstyleoption.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractspinbox.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvalidator.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qregularexpression.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qslider.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractslider.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstyle.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtabbar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtabwidget.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qrubberband.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QInputDialog
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qinputdialog.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlineedit.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextcursor.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextdocument.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextformat.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpen.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextoption.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLabel
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlabel.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpicture.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLineEdit
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMessageBox
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmessagebox.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialogbuttonbox.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QPushButton
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qpushbutton.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractbutton.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QTableWidget
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtablewidget.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtableview.h
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QTextStream
+CMakeFiles\a70_gui.dir\gui\feature_browser.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QVBoxLayout
+
+
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\main.cpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QApplication
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qapplication.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsglobal.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiglobal.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobal.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdbool.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreglobal.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversionchecks.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfiginclude.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\version"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconfig.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcore-config.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfigmacros.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationdefinitions.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreexports.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationmarkers.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtclasshelpermacros.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtpreprocessorsupport.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qassert.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtnoop.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypes.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversion.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypeinfo.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsysinfo.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlogging.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qflags.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasicatomic.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic_cxx11.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qgenericatomic.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qyieldcpu.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconstructormacros.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdarwinhelpers.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qexceptionhandling.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qforeach.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttypetraits.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\variant"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionpointer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobalstatic.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmalloc.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qminmax.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnumeric.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20type_traits.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qoverload.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qswap.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtenvironmentvariables.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtresource.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttranslation.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qversiontagging.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtgui-config.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiexports.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgets-config.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsexports.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstdlibdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcomparehelpers.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearray.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrefcount.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnamespace.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmetamacros.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydata.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpair.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydatapointer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydataops.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxptype_traits.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23type_traits.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20functional.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20memory.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q17memory.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayalgorithms.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdarg.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayview.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string_view"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringalgorithms.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlatin1stringview.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qanystringview.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qutf8stringview.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringtokenizer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter_base.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreevent.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasictimer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstracteventdispatcher.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionaltools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhashfunctions.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\numeric"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterator.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalgorithms.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20bit.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsimd.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringmatcher.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopedpointer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatastream.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevicebase.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfloat16.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmath.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtformat_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterable.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtaggedpointer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetacontainer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerinfo.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopeguard.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbindingstorage.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qeventloop.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdeadlinetimer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnativeinterface.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication_platform.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs_win.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpoint.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcheckedint_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23utility.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20utility.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsize.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmargins.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcursor.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbitmap.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixmap.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpaintdevice.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrect.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcolor.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgba64.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qimage.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixelformat.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtransform.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpolygon.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qregion.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qspan.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cassert"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20iterator.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qline.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qinputmethod.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlocale.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvariant.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdebug.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtextstream.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontiguouscache.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\set"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_set"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmap.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qset.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhash.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvarlengtharray.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalloc.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication_platform.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QCommandLineParser
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcommandlineparser.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcommandlineoption.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QDir
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdir.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdirlisting.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfiledevice.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevice.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\filesystem"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iomanip"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\istream"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_ostream.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ios"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocnum"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\streambuf"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xiosbase"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\share.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocale"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfacet"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocinfo"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_xlocinfo_types.hpp"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\clocale"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\locale.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmon"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xloctime"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\locale"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocbuf"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmes"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatetime.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcalendar.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfile.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfileinfo.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtimezone.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QElapsedTimer
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qelapsedtimer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPalette
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpalette.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbrush.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QStyleFactory
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstylefactory.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QThread
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qthread.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\future"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\condition_variable"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mutex"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\thread"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_startup.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ppltasks.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pplwin.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pplinterface.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ppltaskscheduler.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pplcancellation_token.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QTimer
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtimer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\main_window.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMainWindow
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmainwindow.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qwidget.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qaction.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qkeysequence.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qicon.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfont.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qendian.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontmetrics.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontinfo.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontvariableaxis.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qsizepolicy.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtabwidget.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSettings
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsettings.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\engine.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\deque"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\types.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\json.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\io.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\modbus_server.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.h"
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QImage
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QPointF
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QWidget
+
+
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\main_window.cpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\main_window.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMainWindow
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmainwindow.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsglobal.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiglobal.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobal.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdbool.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreglobal.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversionchecks.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfiginclude.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\version"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconfig.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcore-config.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfigmacros.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationdefinitions.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreexports.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationmarkers.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtclasshelpermacros.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtpreprocessorsupport.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qassert.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtnoop.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypes.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversion.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypeinfo.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsysinfo.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlogging.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qflags.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasicatomic.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic_cxx11.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qgenericatomic.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qyieldcpu.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconstructormacros.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdarwinhelpers.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qexceptionhandling.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qforeach.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttypetraits.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\variant"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionpointer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobalstatic.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmalloc.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qminmax.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnumeric.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20type_traits.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qoverload.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qswap.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtenvironmentvariables.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtresource.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttranslation.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qversiontagging.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtgui-config.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiexports.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgets-config.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsexports.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qwidget.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnamespace.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstdlibdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcomparehelpers.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmetamacros.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionaltools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs_win.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearray.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrefcount.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydata.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpair.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydatapointer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydataops.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxptype_traits.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23type_traits.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20functional.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20memory.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q17memory.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayalgorithms.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdarg.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string_view"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringalgorithms.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlatin1stringview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qanystringview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qutf8stringview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringtokenizer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter_base.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhashfunctions.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\numeric"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterator.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalgorithms.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20bit.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsimd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringmatcher.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopedpointer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatastream.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevicebase.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfloat16.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmath.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtformat_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterable.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtaggedpointer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetacontainer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerinfo.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopeguard.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbindingstorage.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmargins.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcheckedint_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23utility.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20utility.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qaction.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qkeysequence.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qicon.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsize.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixmap.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpaintdevice.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrect.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpoint.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcolor.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgba64.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qimage.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixelformat.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtransform.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpolygon.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qregion.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qspan.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cassert"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20iterator.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qline.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvariant.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdebug.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtextstream.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontiguouscache.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\set"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_set"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmap.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qset.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhash.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvarlengtharray.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalloc.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpalette.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbrush.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfont.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qendian.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontmetrics.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontinfo.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontvariableaxis.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qsizepolicy.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcursor.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbitmap.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtabwidget.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSettings
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsettings.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\engine.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\condition_variable"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mutex"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\thread"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_startup.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\deque"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\types.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\json.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\io.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\modbus_server.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QApplication
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qapplication.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreevent.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasictimer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstracteventdispatcher.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qeventloop.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdeadlinetimer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnativeinterface.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication_platform.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qinputmethod.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlocale.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication_platform.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QCheckBox
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qcheckbox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractbutton.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QCloseEvent
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qevent.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevice.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qurl.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qeventpoint.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvector2d.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvectornd.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpointingdevice.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qinputdevice.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qscreen.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QList
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QObject
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QRect
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSize
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSizeF
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QTransform
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qscreen_platform.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QComboBox
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qcombobox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemdelegate.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstyleoption.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractspinbox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvalidator.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qregularexpression.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qslider.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractslider.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstyle.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtabbar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qrubberband.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qframe.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstractitemmodel.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QDir
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdir.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdirlisting.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfiledevice.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\filesystem"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iomanip"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\istream"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_ostream.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ios"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocnum"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\streambuf"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xiosbase"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\share.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocale"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfacet"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocinfo"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_xlocinfo_types.hpp"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\clocale"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\locale.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmon"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xloctime"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\locale"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocbuf"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmes"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatetime.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcalendar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfile.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfileinfo.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtimezone.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDoubleSpinBox
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qspinbox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QFileDialog
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qfiledialog.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialog.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFileInfo
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QFormLayout
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qformlayout.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLayout
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayoutitem.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qboxlayout.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qgridlayout.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QGroupBox
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qgroupbox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHBoxLayout
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHeaderView
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qheaderview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractscrollarea.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qitemselectionmodel.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLabel
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlabel.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpicture.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextdocument.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLineEdit
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlineedit.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextcursor.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextformat.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpen.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextoption.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMessageBox
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmessagebox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialogbuttonbox.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QPushButton
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qpushbutton.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QScrollArea
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qscrollarea.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QShortcut
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qshortcut.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QSpinBox
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QStatusBar
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstatusbar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QTableWidget
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtablewidget.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtableview.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QTabWidget
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QTimer
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtimer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QToolBar
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtoolbar.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QToolButton
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtoolbutton.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QVBoxLayout
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\feature_browser.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDialog
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.h"
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QImage
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QPointF
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QWidget
+
+
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.cpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QImage
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qimage.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiglobal.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobal.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdbool.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreglobal.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversionchecks.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfiginclude.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\version"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconfig.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcore-config.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtconfigmacros.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationdefinitions.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreexports.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationmarkers.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtclasshelpermacros.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtpreprocessorsupport.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qassert.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtnoop.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypes.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversion.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypeinfo.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsysinfo.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlogging.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qflags.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasicatomic.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic_cxx11.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qgenericatomic.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qyieldcpu.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconstructormacros.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdarwinhelpers.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qexceptionhandling.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qforeach.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttypetraits.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\variant"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionpointer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobalstatic.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmalloc.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qminmax.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnumeric.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20type_traits.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qoverload.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qswap.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtenvironmentvariables.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtresource.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttranslation.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qversiontagging.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtgui-config.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiexports.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcolor.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnamespace.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstdlibdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcomparehelpers.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmetamacros.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydatapointer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydataops.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydata.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpair.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxptype_traits.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23type_traits.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20functional.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20memory.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q17memory.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhashfunctions.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearray.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrefcount.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayalgorithms.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdarg.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayview.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string_view"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringalgorithms.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlatin1stringview.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qanystringview.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qutf8stringview.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringtokenizer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter_base.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\numeric"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterator.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalgorithms.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20bit.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsimd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringmatcher.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgba64.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpaintdevice.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfunctionaltools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs_win.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrect.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcheckedint_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmargins.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23utility.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20utility.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsize.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpoint.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixelformat.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtransform.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpolygon.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qregion.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatastream.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevicebase.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopedpointer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qspan.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cassert"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20iterator.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qline.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QPointF
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QWidget
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qwidget.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsglobal.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgets-config.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsexports.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfloat16.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmath.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtformat_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterable.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtaggedpointer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetacontainer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerinfo.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopeguard.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbindingstorage.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qaction.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qkeysequence.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qicon.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixmap.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvariant.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdebug.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtextstream.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontiguouscache.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\set"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_set"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmap.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qset.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhash.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvarlengtharray.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalloc.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpalette.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbrush.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfont.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qendian.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontmetrics.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontinfo.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontvariableaxis.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qsizepolicy.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcursor.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbitmap.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h"
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QMouseEvent
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qevent.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreevent.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasictimer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstracteventdispatcher.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qeventloop.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdeadlinetimer.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevice.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qurl.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qeventpoint.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvector2d.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvectornd.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpointingdevice.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qinputdevice.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qscreen.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QList
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QObject
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QRect
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSize
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSizeF
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QTransform
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnativeinterface.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qscreen_platform.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication_platform.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qinputmethod.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlocale.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication_platform.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPainter
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpainter.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextoption.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h
+CMakeFiles\a70_gui.dir\gui\thermal_view.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpen.h
+
+
 
 "C:\Program Files\CMake\bin\cmake.exe":
 
@@ -500,133 +2718,151 @@ a70_gui_autogen\timestamp: C:\vcpkg\scripts\buildsystems\vcpkg.cmake
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrect.h:
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCXXCompiler.cmake":
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Fujitsu-DetermineCompiler.cmake":
 
+"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCXXCompiler.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime.h":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCXXCompiler.cmake.in":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\wchar.h":
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\CheckIncludeFileCXX.cmake":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtextstream.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcheckedint_impl.h:
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\CheckIncludeFileCXX.cmake":
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixmap.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDependentOption.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiVersionlessAliasTargets.cmake:
-
-"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h":
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\CMakeCommonCompilerMacros.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\VisualAge-CXX-DetermineCompiler.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\CMakeCommonCompilerMacros.cmake":
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\recorder.h":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvariant.h:
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiVersionlessAliasTargets.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCXXCompilerABI.cpp":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvariant.h:
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineRCCompiler.cmake":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLayout:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCXXInformation.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydatapointer.h:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\GNU-CXX-DetermineCompiler.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsTargets-debug.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\PellesC-DetermineCompiler.cmake":
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydatapointer.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCommonLanguageInclude.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationdefinitions.h:
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\PellesC-DetermineCompiler.cmake":
+
+C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsTargets-debug.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationdefinitions.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsIntegrationPluginConfig.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemview.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeCompilerIdDetection.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCompiler.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\IBMClang-CXX-DetermineCompiler.cmake":
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtoolbar.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargetsPrecheck.cmake:
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\IBMClang-CXX-DetermineCompiler.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\FeatureTesting.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCompilerABI.cmake":
+C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargetsPrecheck.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomCommonGenerationHelpers.cmake:
+"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCompilerABI.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\ARMCC-DetermineCompiler.cmake":
 
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomCommonGenerationHelpers.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLabel:
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeSystemSpecificInformation.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmetamacros.h:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCompilerId.cmake":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmetamacros.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeNMakeFindMake.cmake":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets.cmake:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineCompilerSupport.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomGenerationHelpers.cmake:
+C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tuple":
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\io.h":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeLanguageInformation.cmake":
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomGenerationHelpers.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer_impl.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QTextStream:
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeLanguageInformation.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeDetermineSystem.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginTargets-release.cmake:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrefcount.h:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhash.h:
-
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CheckSourceCompiles.cmake":
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsharedpointer_impl.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeFindBinUtils.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhash.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qrefcount.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginTargets-release.cmake:
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CheckSourceCompiles.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeFindDependencyMacro.cmake":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject.h:
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeGenericSystem.cmake":
-
-C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsConfig.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CheckFlagCommonConfig.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.4\Modules\FindPackageMessage.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Clang-DetermineCompilerInternal.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargets.cmake:
+"C:\Program Files\CMake\share\cmake-4.4\Modules\FindPackageMessage.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6\Qt6Config.cmake:
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CheckFlagCommonConfig.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiexports.h:
+C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsConfig.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxptype_traits.h:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vadefs.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeInitializeConfigs.cmake":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxptype_traits.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiexports.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6\Qt6Config.cmake:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargets.cmake:
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeParseImplicitIncludeInfo.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomRelationshipHelpers.cmake:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\IntelLLVM-DetermineCompiler.cmake":
+
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomRelationshipHelpers.cmake:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\backend.h":
 
@@ -634,69 +2870,93 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomRelationshipHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeParseImplicitLinkInfo.cmake":
 
-"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.h":
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeParseLibraryArchitecture.cmake":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\ADSP-DetermineCompiler.cmake":
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mutex":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeRCCompiler.cmake.in":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cfloat":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeRCInformation.cmake":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearray.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreConfigExtras.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearray.h:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\tmmintrin.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeSystem.cmake.in":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiConfigVersion.cmake:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qexceptionhandling.h:
 
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiConfigVersion.cmake:
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeSystemSpecificInitialize.cmake":
+
+a70_gui_autogen\DMHXEJ42XS\..\..\..\gui\thermal_view.h:
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\MSVC-DetermineCompiler.cmake":
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeTestCXXCompiler.cmake":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginAdditionalTargetInfo.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsettings.h:
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeTestCXXCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\MSVC-DetermineCompiler.cmake":
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20functional.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeTestCompilerCommon.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmmintrin.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CMakeTestRCCompiler.cmake":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtransform.h:
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Borland-DetermineCompiler.cmake":
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_ostream.hpp":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Linker\MSVC-CXX.cmake":
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\emmintrin.h":
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Borland-DetermineCompiler.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CheckCXXCompilerFlag.cmake":
 
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Linker\MSVC-CXX.cmake":
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CheckCXXSourceCompiles.cmake":
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomOpsHelpers.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdint.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\CheckLibraryExists.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\ARMClang-DetermineCompiler.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMainWindow:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtableview.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\SunPro-CXX-DetermineCompiler.cmake":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMainWindow:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication_platform.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtree":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\AppleClang-DetermineCompiler.cmake":
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsDependencies.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomPythonHelpers.cmake:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Clang-DetermineCompiler.cmake":
+
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomPythonHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Compaq-CXX-DetermineCompiler.cmake":
 
@@ -704,25 +2964,33 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomPythonHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Cray-DetermineCompiler.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsTargets.cmake:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\CrayClang-DetermineCompiler.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets-debug.cmake:
+C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h:
 
+C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets-debug.cmake:
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\LCC-CXX-DetermineCompiler.cmake":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qthread.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_bit_utils.hpp":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Diab-DetermineCompiler.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Tasking-DetermineCompiler.cmake":
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Embarcadero-DetermineCompiler.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\PathScale-DetermineCompiler.cmake":
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Tasking-DetermineCompiler.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\typeinfo":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\OpenWatcom-DetermineCompiler.cmake":
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\PathScale-DetermineCompiler.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\FujitsuClang-DetermineCompiler.cmake":
 
@@ -730,29 +2998,35 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qchar.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qregion.h:
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\IAR-DetermineCompiler.cmake":
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cassert":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Intel-DetermineCompiler.cmake":
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\IAR-DetermineCompiler.cmake":
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\MSVC-CXX.cmake":
+
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\zOS-CXX-DetermineCompiler.cmake":
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets-release.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicExternalProjectHelpers.cmake:
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\zOS-CXX-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\MSVC-CXX.cmake":
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\MSVC.cmake":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomLicenseHelpers.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\MSVC.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\NVHPC-DetermineCompiler.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\OrangeC-DetermineCompiler.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qinputdialog.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\PGI-DetermineCompiler.cmake":
+
+C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractspinbox.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Renesas-DetermineCompiler.cmake":
 
@@ -760,17 +3034,21 @@ C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets.cmak
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\TI-DetermineCompiler.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginConfig.cmake:
-
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets-debug.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtpreprocessorsupport.h:
+C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginConfig.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\TIClang-DetermineCompiler.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalloc.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtpreprocessorsupport.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.h":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\Watcom-DetermineCompiler.cmake":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\type_traits":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalloc.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\XL-CXX-DetermineCompiler.cmake":
 
@@ -778,105 +3056,123 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiDependencies.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Compiler\XLClang-CXX-DetermineCompiler.cmake":
 
+"C:\Program Files\CMake\share\cmake-4.4\Modules\FindHDF5.cmake":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomCycloneDXHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Windows-MSVC-CXX.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\FindHDF5.cmake":
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QToolBar:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttranslation.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\FindPackageHandleStandardArgs.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomFileHelpers.cmake:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\FindPkgConfig.cmake":
+
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomFileHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\FindThreads.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsPlugins.cmake:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\FindZLIB.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicTargetHelpers.cmake:
+C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsPlugins.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\GNUInstallDirs.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcore-config.h:
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicTargetHelpers.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CMakeCXXLinkerInformation.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20iterator.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcore-config.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CMakeCommonLinkerInformation.cmake":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20iterator.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsTargetsPrecheck.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CMakeDetermineLinkerId.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsglobal.h:
+"C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CMakeInspectCXXLinker.cmake":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtresource.h:
 
-"C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CMakeInspectCXXLinker.cmake":
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreglobal.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtwidgetsglobal.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CheckCommon.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfigVersionImpl.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtcoreglobal.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Internal\CheckCompilerFlag.cmake":
+
+C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfigVersionImpl.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Linker\MSVC.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Linker\Windows-MSVC-CXX.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata.h:
-
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Linker\Windows-MSVC.cmake":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Windows-Determine-CXX.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Windows-Initialize.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginConfig.cmake:
+a70_gui_autogen\DMHXEJ42XS\..\..\..\gui\feature_browser.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qaction.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtabbar.h:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Windows-MSVC.cmake":
 
-C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsAdditionalTargetInfo.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qaction.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginConfig.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\streambuf":
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\Windows.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject_impl.h:
+C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsAdditionalTargetInfo.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.4\Modules\Platform\WindowsPaths.cmake":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobject_impl.h:
+
 "C:\Program Files\CMake\share\cmake-4.4\Modules\SelectLibraryConfigurations.cmake":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20type_traits.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcommandlineoption.h:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\CMakeLists.txt":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20type_traits.h:
+
 CMakeFiles\4.4.3\CMakeCXXCompiler.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qutf8stringview.h:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\thread":
 
 CMakeFiles\4.4.3\CMakeRCCompiler.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qutf8stringview.h:
 
 CMakeFiles\4.4.3\CMakeSystem.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiConfigVersionImpl.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets-debug.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfiledevice.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\functional":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_heap_algorithms.hpp":
+
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qforeach.h:
 
-"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\camera.h":
+C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets-debug.cmake:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\engine.h":
 
@@ -886,11 +3182,11 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qforeach.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginTargets-debug.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeEarlyPolicyHelpers.cmake:
+"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpair.h:
 
-"C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\core\include\a70\thermal.h":
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeEarlyPolicyHelpers.cmake:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\feature_browser.cpp":
 
@@ -898,9 +3194,11 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpair.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfilesystem_abi.h":
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\main.cpp":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\main_window.cpp":
 
@@ -908,27 +3206,33 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qimage.h:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\main_window.h":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginConfig.cmake:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ppltaskscheduler.h":
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontinfo.h:
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginConfig.cmake:
 
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.cpp":
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontinfo.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wconio.h":
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QPointF:
-
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginTargetsPrecheck.cmake:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23utility.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSettings:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsVersionlessAliasTargets.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q23utility.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainertools_impl.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginTargetsPrecheck.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginTargets-debug.cmake:
 
+C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsVersionlessAliasTargets.cmake:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q17memory.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication_platform.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20bit.h:
 
@@ -944,77 +3248,99 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qalgorithms.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qanystringview.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextcursor.h:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydata.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qarraydataops.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbindingstorage.h:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qassert.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbindingstorage.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicPluginHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qatomic_cxx11.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6\Qt6Dependencies.cmake:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetatype.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasicatomic.h:
 
+C:\vcpkg\installed\x64-windows\share\Qt6\Qt6Dependencies.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iosfwd":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearraylist.h:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayalgorithms.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdlib":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\algorithm":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6ConfigVersionImpl.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbytearrayview.h:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new_debug.h":
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare_impl.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfig.cmake:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcomparehelpers.h:
 
+C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfig.cmake:
+
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfigVersion.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xkeycheck.h":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconfig.h:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomDocumentNamespaceHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qconstructormacros.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargetsPrecheck.cmake:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerfwd.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargetsPrecheck.cmake:
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargetsPrecheck.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontainerinfo.h:
 
+C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargetsPrecheck.cmake:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcontiguouscache.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QList:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdarwinhelpers.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets.cmake:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFileInfo:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatastream.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringfwd.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets.cmake:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdebug.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringalgorithms.h:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qendian.h:
+
+a70_gui_autogen\DMHXEJ42XS\moc_feature_browser.cpp:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringalgorithms.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginTargets.cmake:
 
@@ -1030,31 +3356,49 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qgenericatomic.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobal.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QSpinBox:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnumeric.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qglobalstatic.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ppltasks.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtInstallPaths.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qhashfunctions.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QStatusBar:
+
 C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-targets-debug.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSize:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevicebase.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterable.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringbuilder.h:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtformat_impl.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiterator.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlatin1stringview.h:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cerrno":
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qline.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlist.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals_core.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpainter.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\deque":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlogging.h:
 
@@ -1066,13 +3410,13 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmargins.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmath.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets.cmake:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qmetacontainer.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiConfig.cmake:
+C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qminmax.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiConfig.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnamespace.h:
 
@@ -1082,11 +3426,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtFeature.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qobjectdefs_impl.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QFormLayout:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_string_view.hpp":
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qoverload.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qpoint.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qprocessordetection.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpen.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopedpointer.h:
 
@@ -1094,11 +3444,13 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qscopeguard.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qset.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QGroupBox:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata_impl.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginTargetsPrecheck.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs.h:
-
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qshareddata_impl.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets-debug.cmake:
 
@@ -1108,9 +3460,11 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtFeatureCommon.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsize.h:
 
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets-release.cmake:
+
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsConfigVersionImpl.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets-release.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qscrollarea.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qspan.h:
 
@@ -1120,17 +3474,23 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstring.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginAdditionalTargetInfo.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter_base.h:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixelformat.h:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringconverter_base.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qswap.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpixelformat.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xpolymorphic_allocator.h":
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringmatcher.h:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmes":
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringtokenizer.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\variant":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringview.h:
 
@@ -1139,6 +3499,10 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsysinfo.h:
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsystemdetection.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtaggedpointer.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHBoxLayout:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsVersionlessTargets.cmake:
 
@@ -1156,17 +3520,21 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtdeprecationmarkers.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtenvironmentvariables.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtnoop.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6ConfigVersion.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtnoop.h:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\set":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ctime":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicDependencyHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qttypetraits.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversion.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtversionchecks.h:
 
@@ -1176,71 +3544,95 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtypes.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qvarlengtharray.h:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\concurrencysal.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtimezone.h:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qversiontagging.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qyieldcpu.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QImage:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargets.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QComboBox:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbitmap.h:
 
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargets.cmake:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbrush.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicAndroidHelpers.cmake:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstring":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcolor.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicAndroidHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qcursor.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfont.h:
 
-C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsConfigVersion.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcalendar.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontmetrics.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsConfigVersion.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qgridlayout.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontvariableaxis.h:
 
 C:\vcpkg\installed\x64-windows\share\hdf5\vcpkg-cmake-wrapper.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginTargetsPrecheck.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qfontvariableaxis.h:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qicon.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpicture.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qkeysequence.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpaintdevice.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsTargets-release.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvalidator.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_terminate.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsConfigVersion.cmake:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpaintdevice.h:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpalette.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xmemory":
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpolygon.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgba64.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtgui-config.h:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdint":
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginTargets-debug.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtgui-config.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtguiglobal.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs_win.h:
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginTargets-debug.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets-release.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qwindowdefs_win.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDialog:
 
+C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsTargets-release.cmake:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QWidget:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\math.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreConfigVersionImpl.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomPurlHelpers.cmake:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialog.h:
+
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomPurlHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmainwindow.h:
 
@@ -1256,27 +3648,39 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qwidget.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\FindWrapAtomic.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\q20algorithm.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6ConfigExtras.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6Targets.cmake:
 
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QJpegPluginTargets-release.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qrubberband.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6TargetsPrecheck.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QStyleFactory:
+
 C:\vcpkg\installed\x64-windows\share\Qt6\Qt6VersionlessAliasTargets.cmake:
-
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginTargets.cmake:
-
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicGitHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicAppleHelpers.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsVersionlessTargets.cmake:
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QMinimalIntegrationPluginTargets.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\clocale":
+
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicGitHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeHelpers.cmake:
 
+C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsVersionlessTargets.cmake:
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeIncludeGuardHelpers.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xutility":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicCMakeVersionHelpers.cmake:
 
@@ -1284,23 +3688,33 @@ C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicFinalizerHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicFindPackageHelpers.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicJsonHelpers.cmake:
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\smmintrin.h":
 
-C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfigVersionImpl.cmake:
+C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicJsonHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicPluginHelpers_v2.cmake:
 
+C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfigVersionImpl.cmake:
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomAttributionHelpers.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstracteventdispatcher.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomBuildToolHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreDependencies.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocinfo":
+
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomCpeHelpers.cmake:
+
+a70_gui_autogen\DMHXEJ42XS\..\..\..\gui\main_window.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomDepHelpers.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomExternalReferenceHelpers.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vector":
 
 C:\vcpkg\installed\x64-windows\share\Qt6\QtPublicSbomGenerationCycloneDXHelpers.cmake:
 
@@ -1332,9 +3746,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargets-release.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreTargetsPrecheck.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xiosbase":
+
 C:\vcpkg\installed\x64-windows\share\libaec\libaec_shared-targets.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qspinbox.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qbasictimer.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Core\Qt6CoreVersionlessAliasTargets.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractbutton.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsAdditionalTargetInfo.cmake:
 
@@ -1342,11 +3764,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfigVersion.cmak
 
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsDependencies.cmake:
 
+a70_gui_autogen\DMHXEJ42XS\moc_main_window.cpp:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\atomic":
+
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsTargets-release.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsTargets.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsTargetsPrecheck.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\version":
 
 C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateAdditionalTargetInfo.cmake:
 
@@ -1354,9 +3782,11 @@ C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateCo
 
 C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfigVersion.cmake:
 
+C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfigVersionImpl.cmake:
+
 C:\vcpkg\installed\x64-windows\share\libaec\libaec-config-version.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfigVersionImpl.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QLineEdit:
 
 C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateTargets-debug.cmake:
 
@@ -1364,11 +3794,15 @@ C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateTa
 
 C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateTargets.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginTargets-release.cmake:
-
 C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateTargetsPrecheck.cmake:
 
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginTargets-release.cmake:
+
+a70_gui_autogen\DMHXEJ42XS\moc_thermal_view.cpp:
+
 C:\vcpkg\installed\x64-windows\share\Qt6EntryPointPrivate\Qt6EntryPointPrivateVersionlessAliasTargets.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextoption.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiAdditionalTargetInfo.cmake:
 
@@ -1376,19 +3810,29 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiPlugins.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargets-debug.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qscreen.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\float.h":
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargets-release.cmake:
 
-C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginConfig.cmake:
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstatusbar.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6GuiTargetsPrecheck.cmake:
 
+C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginConfig.cmake:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginConfig.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginTargetsPrecheck.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargets-debug.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QGifPluginTargets-release.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin0.inl.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QICOPluginAdditionalTargetInfo.cmake:
 
@@ -1404,9 +3848,13 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QOffscreenIntegrationPluginConfig
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginConfig.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreevent.h:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginTargets-debug.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QTuioTouchPluginTargets.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_new.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargets-debug.cmake:
 
@@ -1426,11 +3874,17 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsIntegrationPluginTargetsP
 
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsConfig.cmake:
 
-C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-targets-release.cmake:
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\share.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6GuiTools\Qt6GuiToolsDependencies.cmake:
 
+C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-targets-release.cmake:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginTargets-debug.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\eh.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h":
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6QModernWindowsStylePluginTargets-release.cmake:
 
@@ -1442,17 +3896,29 @@ C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsConfigVersionImpl.cmak
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsDependencies.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QObject:
+
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsMacros.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6Widgets\Qt6WidgetsTargets-debug.cmake:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsAdditionalTargetInfo.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfileinfo.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ratio":
+
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfig.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdatetime.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsVersionlessTargets.cmake:
 
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cmath":
+
 C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-config-version.cmake:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wdirect.h":
 
 C:\vcpkg\installed\x64-windows\share\hdf5\hdf5-config.cmake:
 
@@ -1464,6 +3930,372 @@ C:\vcpkg\installed\x64-windows\share\libaec\libaec_shared-targets-debug.cmake:
 
 C:\vcpkg\installed\x64-windows\share\libaec\libaec_shared-targets-release.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QShortcut:
+
 C:\vcpkg\installed\x64-windows\share\zlib\vcpkg-cmake-wrapper.cmake:
 
 C:\vcpkg\scripts\buildsystems\vcpkg.cmake:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\condition_variable":
+
+a70_gui_autogen\mocs_compilation.cpp:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\sal.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstddef":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtr1common":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\utility":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\initializer_list":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdbool.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\climits":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\limits.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cwchar":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cstdio":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdio.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_string.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wio.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_share.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wprocess.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QCommandLineParser:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wtime.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\stat.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qgroupbox.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\sys\types.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\intrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\setjmp.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\immintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\wmmintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\nmmintrin.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QTimer:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pmmintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\mmintrin.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfile.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\malloc.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_xlocinfo_types.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\zmmintrin.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qregularexpression.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ammintrin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\yvals.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\crtdbg.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\crtdefs.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\use_ansi.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_iter_core.hpp":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_math.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_minmax.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\new":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xnode_handle.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\exception":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_exception.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xatomic.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xthreads.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_threads_core.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xtimec.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\time.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\optional":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xerrc.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xsmf_control.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_typeinfo.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_map":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xhash":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\list":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_sanitizer_annotate_container.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xbit_ops.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtablewidget.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\memory":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iterator":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdarg.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xstring":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\cctype":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\string_view":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\numeric":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qsimd.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\array":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\map":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\chrono":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_chrono.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\system_error":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\__msvc_system_error_abi.hpp":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\stdexcept":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xcall_once.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\unordered_set":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\process.h":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_startup.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\ios":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\vcruntime_startup.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmochelpers.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtmocconstants.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFile:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qfiledialog.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qiodevice.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xloctime":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\filesystem":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qeventloop.h:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\iomanip":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\istream":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocnum":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QMouseEvent:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocale":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xfacet":
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\locale.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocmon":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\locale":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\xlocbuf":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QFileDialog:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdir.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdirlisting.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QApplication:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qlocale.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qurl.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qboxlayout.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMessageBox:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayoutitem.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHeaderView:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qheaderview.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractscrollarea.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qframe.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qabstractitemmodel.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qitemselectionmodel.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemdelegate.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstyleoption.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstylefactory.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qslider.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractslider.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qstyle.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QInputDialog:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlineedit.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextdocument.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qtextformat.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlabel.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qmessagebox.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qdialogbuttonbox.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QPushButton:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qpushbutton.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QTableWidget:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QVBoxLayout:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qapplication.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcoreapplication.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qdeadlinetimer.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qnativeinterface.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qguiapplication.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qinputmethod.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcommandlineparser.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QDir:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QElapsedTimer:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qelapsedtimer.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPalette:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QThread:
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\future":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pplwin.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pplinterface.h":
+
+"C:\Program Files (x86)\Microsoft Visual Studio\18\BuildTools\VC\Tools\MSVC\14.50.35717\include\pplcancellation_token.h":
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qtimer.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QCheckBox:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qcheckbox.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QCloseEvent:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qevent.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qeventpoint.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvector2d.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qvectornd.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpointingdevice.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qinputdevice.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QRect:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QSizeF:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QScrollArea:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QTransform:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qscreen_platform.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qcombobox.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDoubleSpinBox:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qformlayout.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qshortcut.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QTabWidget:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QToolButton:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtoolbutton.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPainter:

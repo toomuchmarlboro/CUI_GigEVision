@@ -18,6 +18,7 @@ class QPushButton;
 class QSpinBox;
 class QTableWidget;
 class QTimer;
+class QToolButton;
 class ThermalView;
 class ColorBar;
 
@@ -39,6 +40,7 @@ public:
     void setBoxRange(bool on);
     QWidget* panel() const { return panel_; }
     void enableModbus(int port);
+    void setPanelVisible(bool on);
 
 public slots:
     void connectCamera();
@@ -84,6 +86,9 @@ private:
 
     ThermalView* view_;
     QWidget* panel_ = nullptr;
+    QWidget* panelScroll_ = nullptr;
+    QToolButton* btnSettings_ = nullptr;
+    QPushButton* btnSnapshot_ = nullptr;
     ColorBar* cbar_;
     QLabel *lblCursor_, *lblStats_, *lblFps_, *lblHealth_, *lblRec_, *lblModbus_;
     // connection
