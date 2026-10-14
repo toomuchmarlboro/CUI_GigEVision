@@ -393,6 +393,7 @@ C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qtimezone.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qstringlist.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QElapsedTimer
 C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qelapsedtimer.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QFile
 C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/QPalette
 C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qpalette.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qbrush.h

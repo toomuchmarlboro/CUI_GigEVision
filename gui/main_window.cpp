@@ -27,6 +27,10 @@
 #include <QToolButton>
 #include <QVBoxLayout>
 #include <cmath>
+#ifdef A70_HAVE_SVG
+#include <QPainter>
+#include <QSvgRenderer>
+#endif
 
 #include "feature_browser.h"
 #include "thermal_view.h"
@@ -47,7 +51,12 @@ MainWindow::MainWindow(const GuiOptions& opt, QWidget* parent) : QMainWindow(par
     resize(1400, 860);
 
     auto* central = new QWidget;
-    auto* h = new QHBoxLayout(central);
+    auto* outerV = new QVBoxLayout(central);
+    outerV->setContentsMargins(0, 0, 0, 0);
+    outerV->setSpacing(0);
+    outerV->addWidget(buildBrandHeader());
+
+    auto* h = new QHBoxLayout;
     h->setContentsMargins(6, 6, 6, 6);
     auto* left = new QVBoxLayout;
     auto* imgRow = new QHBoxLayout;
@@ -90,6 +99,7 @@ MainWindow::MainWindow(const GuiOptions& opt, QWidget* parent) : QMainWindow(par
     scroll->setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
     panelScroll_ = scroll;
     h->addWidget(scroll);
+    outerV->addLayout(h, 1);
     setCentralWidget(central);
     statusBar()->showMessage(QString("Ready (Qt %1)").arg(qVersion()));
 
@@ -145,6 +155,45 @@ MainWindow::MainWindow(const GuiOptions& opt, QWidget* parent) : QMainWindow(par
 MainWindow::~MainWindow() { disconnectCamera(); }
 
 // ================================================================ panels
+QWidget* MainWindow::buildBrandHeader() {
+    auto* header = new QWidget;
+    header->setObjectName("brandHeader");
+    auto* hl = new QHBoxLayout(header);
+    hl->setContentsMargins(16, 10, 16, 10);
+    hl->setSpacing(14);
+
+    auto* logo = new QLabel;
+#ifdef A70_HAVE_SVG
+    QSvgRenderer renderer(QString(":/pertamina_white.svg"));
+    if (renderer.isValid()) {
+        QSize sz = renderer.defaultSize().scaled(140, 48, Qt::KeepAspectRatio);
+        QPixmap pix(sz);
+        pix.fill(Qt::transparent);
+        QPainter p(&pix);
+        renderer.render(&p, QRectF(0, 0, sz.width(), sz.height()));
+        logo->setPixmap(pix);
+    } else {
+        logo->setText("PERTAMINA");
+    }
+#else
+    logo->setText("PERTAMINA");
+#endif
+    logo->setObjectName("brandLogo");
+    hl->addWidget(logo);
+
+    auto* titles = new QVBoxLayout;
+    titles->setSpacing(0);
+    auto* line1 = new QLabel(QString::fromUtf8("PT Pertamina (Persero) — Refinery Unit IV Cilacap"));
+    line1->setObjectName("brandTitle1");
+    auto* line2 = new QLabel(QString::fromUtf8("FLIR A70 Radiometric CUI Monitor"));
+    line2->setObjectName("brandTitle2");
+    titles->addWidget(line1);
+    titles->addWidget(line2);
+    hl->addLayout(titles);
+    hl->addStretch(1);
+    return header;
+}
+
 QGroupBox* MainWindow::buildConnection() {
     auto* g = new QGroupBox("Connection");
     auto* f = new QFormLayout(g);
@@ -632,7 +681,8 @@ void MainWindow::updateStatus() {
             view_->setOverlayText(QString::fromUtf8("No new frames — image is stale"), QColor(255, 180, 60));
         } else {
             lblHealth_->setText(s.anyAlarm ? QString::fromUtf8("● ALARM") : QString::fromUtf8("● LIVE"));
-            lblHealth_->setStyleSheet(s.anyAlarm ? "color:#ff4040; font-weight:bold;" : "color:#40d060; font-weight:bold;");
+            // brand red/green — reserved for these two real engine states, not decoration
+            lblHealth_->setStyleSheet(s.anyAlarm ? "color:#ED1B2F; font-weight:bold;" : "color:#ACC42A; font-weight:bold;");
             view_->setOverlayText({}, {});
         }
         if (s.recording || btnRecord_->isChecked()) {

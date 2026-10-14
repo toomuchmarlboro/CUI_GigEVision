@@ -1,0 +1,101 @@
+/* Pertamina Cilacap RU IV theme. Brand colors come from the logo artwork itself
+   (gui/assets/Pertamina_Logo.svg): blue #006CB8, red #ED1B2F, green #ACC42A.
+   Red/green are reserved for the engine's actual alarm/fresh-data state elsewhere
+   in the code (see MainWindow::updateStatus) — this file only covers chrome. */
+
+QWidget#brandHeader {
+    background-color: #0b0d0e;
+    border-bottom: 3px solid #ED1B2F;
+}
+QLabel#brandTitle1 {
+    color: #ffffff;
+    font-size: 13pt;
+    font-weight: 600;
+}
+QLabel#brandTitle2 {
+    color: #9aa0a6;
+    font-size: 9pt;
+}
+QLabel#brandLogo {
+    color: #ffffff;
+    font-size: 14pt;
+    font-weight: 700;
+}
+
+QToolBar {
+    background-color: #141617;
+    border-bottom: 1px solid #2a2c2e;
+    spacing: 6px;
+    padding: 4px;
+}
+
+QGroupBox {
+    border: 1px solid #333;
+    border-radius: 4px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #cfd3d6;
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 8px;
+    padding: 0 4px;
+    color: #4ea8de;
+}
+
+QTabWidget::pane {
+    border: 1px solid #333;
+    top: -1px;
+}
+QTabBar::tab {
+    background: #202326;
+    color: #c7cbce;
+    padding: 6px 12px;
+    border: 1px solid #333;
+    border-bottom: none;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+QTabBar::tab:selected {
+    background: #006CB8;
+    color: #ffffff;
+}
+QTabBar::tab:hover:!selected {
+    background: #2b3a45;
+}
+
+QPushButton, QToolButton {
+    background-color: #26292c;
+    border: 1px solid #3a3d40;
+    border-radius: 4px;
+    padding: 5px 10px;
+    color: #e4e6e8;
+}
+QPushButton:hover, QToolButton:hover {
+    border-color: #006CB8;
+}
+QPushButton:pressed, QToolButton:pressed {
+    background-color: #006CB8;
+    color: #ffffff;
+}
+QPushButton:checked, QToolButton:checked {
+    background-color: #006CB8;
+    color: #ffffff;
+    border-color: #006CB8;
+}
+QPushButton:disabled, QToolButton:disabled {
+    color: #6b6f72;
+    border-color: #2a2c2e;
+}
+
+QTableWidget {
+    gridline-color: #333;
+    selection-background-color: #006CB8;
+}
+QHeaderView::section {
+    background-color: #202326;
+    color: #c7cbce;
+    padding: 4px;
+    border: none;
+    border-bottom: 1px solid #333;
+}

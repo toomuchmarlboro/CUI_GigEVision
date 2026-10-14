@@ -252,6 +252,30 @@ a70_tests_autogen\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70_tests_autogen.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70_tests_autogen.dir\build
 .PHONY : a70_tests_autogen\fast
 
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.obj: a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.obj
+.PHONY : a70_gui_autogen\DMHXEJ42XS\qrc_resources.obj
+
+# target to build an object file
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70_gui.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70_gui.dir\a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.obj
+.PHONY : a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.obj
+
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.i: a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.i
+.PHONY : a70_gui_autogen\DMHXEJ42XS\qrc_resources.i
+
+# target to preprocess a source file
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70_gui.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70_gui.dir\a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.i
+.PHONY : a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.i
+
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.s: a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.s
+.PHONY : a70_gui_autogen\DMHXEJ42XS\qrc_resources.s
+
+# target to generate assembly for a file
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\a70_gui.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\a70_gui.dir\a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.s
+.PHONY : a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.s
+
 a70_gui_autogen\mocs_compilation.obj: a70_gui_autogen\mocs_compilation.cpp.obj
 .PHONY : a70_gui_autogen\mocs_compilation.obj
 
@@ -776,6 +800,9 @@ help:
 	@echo ... a70_gui
 	@echo ... a70_tests
 	@echo ... a70core
+	@echo ... a70_gui_autogen/DMHXEJ42XS/qrc_resources.obj
+	@echo ... a70_gui_autogen/DMHXEJ42XS/qrc_resources.i
+	@echo ... a70_gui_autogen/DMHXEJ42XS/qrc_resources.s
 	@echo ... a70_gui_autogen/mocs_compilation.obj
 	@echo ... a70_gui_autogen/mocs_compilation.i
 	@echo ... a70_gui_autogen/mocs_compilation.s

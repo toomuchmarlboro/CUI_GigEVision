@@ -128,13 +128,24 @@ if(A70_BUILD_GUI)
   find_package(QT NAMES Qt6 Qt5 COMPONENTS Widgets QUIET)
   if(QT_FOUND)
     find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Widgets REQUIRED)
+    # Qt Svg is optional (per the project's "optional deps stay optional" rule): without it
+    # the Pertamina header falls back to a text-only title instead of failing the build.
+    find_package(Qt${QT_VERSION_MAJOR} COMPONENTS Svg QUIET)
     set(CMAKE_AUTOMOC ON)
+    set(CMAKE_AUTORCC ON)
     add_executable(a70_gui WIN32
       gui/main.cpp gui/main_window.cpp gui/main_window.h
       gui/thermal_view.cpp gui/thermal_view.h
-      gui/feature_browser.cpp gui/feature_browser.h)
+      gui/feature_browser.cpp gui/feature_browser.h
+      gui/resources.qrc)
     target_link_libraries(a70_gui PRIVATE a70core Qt${QT_VERSION_MAJOR}::Widgets)
-    message(STATUS "a70: GUI with Qt ${QT_VERSION}")
+    if(Qt${QT_VERSION_MAJOR}Svg_FOUND)
+      target_link_libraries(a70_gui PRIVATE Qt${QT_VERSION_MAJOR}::Svg)
+      target_compile_definitions(a70_gui PRIVATE A70_HAVE_SVG=1)
+      message(STATUS "a70: GUI with Qt ${QT_VERSION} (Pertamina logo enabled)")
+    else()
+      message(STATUS "a70: GUI with Qt ${QT_VERSION} (no Qt Svg — header falls back to text-only)")
+    endif()
   else()
     message(WARNING "a70: Qt5/Qt6 Widgets not found — GUI not built")
   endif()

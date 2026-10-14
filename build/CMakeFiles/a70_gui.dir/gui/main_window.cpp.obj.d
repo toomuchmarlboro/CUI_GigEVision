@@ -511,6 +511,14 @@ C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qtoolbar.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QToolButton
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qtoolbutton.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QVBoxLayout
+C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/QPainter
+C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qpainter.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/QSvgRenderer
+C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/qsvgrenderer.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qxmlstream.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/qtsvgglobal.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/qtsvgexports.h
+C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qcompilerdetection.h
 C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/feature_browser.h
 C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QDialog
 C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/thermal_view.h

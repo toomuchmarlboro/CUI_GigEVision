@@ -1,84 +1,22 @@
 a70_tests_autogen/timestamp: \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompiler.cmake.in \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCXXInformation.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCommonLanguageInclude.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeCompilerIdDetection.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDependentOption.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCXXCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerABI.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerId.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineCompilerSupport.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineRCCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeDetermineSystem.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeFindBinUtils.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeFindDependencyMacro.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeGenericSystem.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeInitializeConfigs.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeLanguageInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeNMakeFindMake.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseImplicitIncludeInfo.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseImplicitLinkInfo.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeParseLibraryArchitecture.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCCompiler.cmake.in \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeRCInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeSystem.cmake.in \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeSystemSpecificInformation.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeSystemSpecificInitialize.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeTestCXXCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeTestCompilerCommon.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeTestRCCompiler.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckCXXCompilerFlag.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckCXXSourceCompiles.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckIncludeFileCXX.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/CheckLibraryExists.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Clang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Cray-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Diab-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/GHS-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/IAR-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Intel-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/MSVC-CXX.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/MSVC-DetermineCompiler.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/MSVC.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/PGI-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/PellesC-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Renesas-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/SCO-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/TI-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/FindHDF5.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/FindPackageHandleStandardArgs.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/FindPackageMessage.cmake \
@@ -88,18 +26,14 @@ a70_tests_autogen/timestamp: \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/GNUInstallDirs.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CMakeCXXLinkerInformation.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CMakeCommonLinkerInformation.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CMakeDetermineLinkerId.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CMakeInspectCXXLinker.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckCommon.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckCompilerFlag.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckFlagCommonConfig.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/CheckSourceCompiles.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Internal/FeatureTesting.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Linker/MSVC-CXX.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Linker/MSVC.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Linker/Windows-MSVC-CXX.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Linker/Windows-MSVC.cmake \
-	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-Determine-CXX.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-Initialize.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-MSVC-CXX.cmake \
 	C:/Program\ Files/CMake/share/cmake-4.4/Modules/Platform/Windows-MSVC.cmake \
@@ -110,6 +44,7 @@ a70_tests_autogen/timestamp: \
 	C:/Users/LENOVO\ THINKPAD\ T14/Documents/CUI_GigEVision/build/CMakeFiles/4.4.3/CMakeCXXCompiler.cmake \
 	C:/Users/LENOVO\ THINKPAD\ T14/Documents/CUI_GigEVision/build/CMakeFiles/4.4.3/CMakeRCCompiler.cmake \
 	C:/Users/LENOVO\ THINKPAD\ T14/Documents/CUI_GigEVision/build/CMakeFiles/4.4.3/CMakeSystem.cmake \
+	C:/Users/LENOVO\ THINKPAD\ T14/Documents/CUI_GigEVision/gui/resources.qrc \
 	C:/Users/LENOVO\ THINKPAD\ T14/Documents/CUI_GigEVision/tests/test_core.cpp \
 	C:/vcpkg/installed/x64-windows/share/Qt6/FindWrapAtomic.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6/Qt6Config.cmake \
@@ -233,6 +168,18 @@ a70_tests_autogen/timestamp: \
 	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-release.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QOffscreenIntegrationPluginTargetsPrecheck.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgIconPluginConfig.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgIconPluginTargets-debug.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgIconPluginTargets-release.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgIconPluginTargets.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgIconPluginTargetsPrecheck.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgPluginConfig.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgPluginTargets-debug.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgPluginTargets-release.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgPluginTargets.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QSvgPluginTargetsPrecheck.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Gui/Qt6QTuioTouchPluginTargets-debug.cmake \
@@ -261,6 +208,16 @@ a70_tests_autogen/timestamp: \
 	C:/vcpkg/installed/x64-windows/share/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6GuiTools/Qt6GuiToolsTargetsPrecheck.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgAdditionalTargetInfo.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgConfig.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgConfigVersion.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgConfigVersionImpl.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgDependencies.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgTargets-debug.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgTargets-release.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgTargets.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgTargetsPrecheck.cmake \
+	C:/vcpkg/installed/x64-windows/share/Qt6Svg/Qt6SvgVersionlessAliasTargets.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake \
 	C:/vcpkg/installed/x64-windows/share/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-debug.cmake \

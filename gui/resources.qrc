@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="pertamina_white.svg">assets/Pertamina-white_Logo.svg</file>
+    <file alias="pertamina_color.svg">assets/Pertamina_Logo.svg</file>
+    <file alias="theme.qss">theme.qss</file>
+  </qresource>
+</RCC>

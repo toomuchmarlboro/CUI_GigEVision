@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/a70_gui_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision",
+	"CMAKE_SOURCE_DIR" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "NMake Makefiles",
+	"INCLUDE_DIR" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/a70_gui_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/assets/Pertamina_Logo.svg",
+		"C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/assets/Pertamina-white_Logo.svg",
+		"C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/theme.qss"
+	],
+	"LOCK_FILE" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_gui_autogen.dir/AutoRcc_resources_DMHXEJ42XS_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "DMHXEJ42XS",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/vcpkg/installed/x64-windows/tools/Qt6/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_gui_autogen.dir/AutoRcc_resources_DMHXEJ42XS_Used.txt",
+	"SOURCE" : "C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

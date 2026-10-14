@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/a70_gui_autogen.dir/AutogenUsed.txt"
   "CMakeFiles/a70_gui_autogen.dir/ParseCache.txt"
   "a70_gui_autogen"
+  "CMakeFiles/a70_gui.dir/a70_gui_autogen/DMHXEJ42XS/qrc_resources.cpp.obj"
+  "CMakeFiles/a70_gui.dir/a70_gui_autogen/DMHXEJ42XS/qrc_resources.cpp.obj.d"
   "CMakeFiles/a70_gui.dir/a70_gui_autogen/mocs_compilation.cpp.obj"
   "CMakeFiles/a70_gui.dir/a70_gui_autogen/mocs_compilation.cpp.obj.d"
   "CMakeFiles/a70_gui.dir/gui/feature_browser.cpp.obj"
@@ -16,6 +18,7 @@ file(REMOVE_RECURSE
   "a70_gui.exe.manifest"
   "a70_gui.lib"
   "a70_gui.pdb"
+  "a70_gui_autogen/DMHXEJ42XS/qrc_resources.cpp"
   "a70_gui_autogen/mocs_compilation.cpp"
   "a70_gui_autogen/timestamp"
 )

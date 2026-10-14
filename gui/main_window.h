@@ -66,6 +66,7 @@ private slots:
     void showFeatures();
 
 private:
+    QWidget* buildBrandHeader();
     QGroupBox* buildConnection();
     QGroupBox* buildDisplay();
     QGroupBox* buildCamera();

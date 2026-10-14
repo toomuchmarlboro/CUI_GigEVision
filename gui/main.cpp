@@ -8,6 +8,7 @@
 #include <QCommandLineParser>
 #include <QDir>
 #include <QElapsedTimer>
+#include <QFile>
 #include <QPalette>
 #include <QStyleFactory>
 #include <QThread>
@@ -33,6 +34,8 @@ static void darkTheme(QApplication& app) {
     p.setColor(QPalette::Disabled, QPalette::Text, QColor(120, 120, 120));
     p.setColor(QPalette::Disabled, QPalette::ButtonText, QColor(120, 120, 120));
     app.setPalette(p);
+    QFile qss(":/theme.qss");
+    if (qss.open(QIODevice::ReadOnly | QIODevice::Text)) app.setStyleSheet(QString::fromUtf8(qss.readAll()));
 }
 
 static void pump(QApplication& app, int ms) {
