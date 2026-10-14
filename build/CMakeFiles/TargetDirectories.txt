@@ -1,0 +1,14 @@
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70core.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_cli.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_gui.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_tests.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/test.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/rebuild_cache.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/list_install_components.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/install.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/install/local.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_gui_autogen_timestamp_deps.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_gui_autogen.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_tests_autogen_timestamp_deps.dir
+C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/CMakeFiles/a70_tests_autogen.dir
