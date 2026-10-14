@@ -94,3 +94,43 @@ branding). Built and verified in order, no blockers hit.
 ### Open / no further increments planned
 Nothing from the approved 4-increment plan was skipped. No next-batch plan proposed —
 awaiting operator direction on what's next.
+
+---
+
+## Follow-up: reference thermal image, About panel, window scaling (gui/)
+
+Operator asked for "a realistic thermal image/video, a real thermal capture" in the demo.
+Flagged a real constraint before building: a downloaded thermal photo has no calibrated
+per-pixel temperature data, so feeding it into the simulator's radiometric pipeline would
+mean fabricating a color→temperature mapping and presenting it through the same path as
+real camera data — exactly what AGENTS.md's prime directive forbids. Operator agreed to
+use a real photo as a visual-only reference, kept separate from the live simulator.
+
+- Built: `gui/assets/reference_thermal_aqua_tower.jpg` — a genuine FLIR camera photograph
+  (EXIF-verified: `manufacturer=FLIR Systems AB, model=Flir b60`), CC0 1.0 Universal Public
+  Domain, Jim D'Aloisio, 2010, sourced from Wikimedia Commons
+  (https://commons.wikimedia.org/wiki/File:Aqua_Tower_thermal_imaging.jpg). FLIR's own
+  official sample/dataset pages were checked first but are gated behind a login/registration
+  form with no accessible direct download — not usable without the operator creating an
+  account themselves.
+- Built: new "About" toolbar button → `MainWindow::showAbout()` dialog showing the
+  reference photo with an explicit caption: real FLIR camera photo, CC0-licensed, **not**
+  data from this application. Kept structurally separate from `ThermalView` / the live
+  radiometric pipeline — no code path lets this image reach the engine, Modbus, or any
+  measurement.
+- Built: window geometry now persists across restarts (`QSettings` key `ui/geometry`,
+  saved in `closeEvent`); first run (no saved geometry) starts maximized so the camera view
+  fills the screen by default; Qt5 build path gets `Qt::AA_EnableHighDpiScaling` explicitly
+  (Qt6 already defaults this on) for multi-monitor/high-DPI scaling.
+- Files: `gui/main_window.h`, `gui/main_window.cpp`, `gui/main.cpp`, `gui/resources.qrc`,
+  `gui/assets/reference_thermal_aqua_tower.jpg`.
+- Verified: clean build; `a70_tests.exe` all pass (one transient timing flake on
+  `recWritten >= 5` — a pre-existing tight-timing test unrelated to these GUI-only changes,
+  passed cleanly on rerun ×2); selftest screenshot confirms maximize-on-first-run and the
+  About button's toolbar placement.
+- Not verified: the About dialog's actual rendering (selftest doesn't open it — only
+  code-reviewed); real interactive on-screen run.
+- Open item, not part of this change: `testEngine`'s recording-frame-count check
+  (`tests/test_core.cpp:183`) is timing-flaky under system load. Worth hardening separately
+  (e.g. poll for frame count instead of a fixed sleep) if it recurs — out of scope here
+  since it's pre-existing and untouched by this work.

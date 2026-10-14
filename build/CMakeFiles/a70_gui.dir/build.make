@@ -69,6 +69,7 @@ a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp: CMakeFiles\a70_gui_autogen.dir\Aut
 a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\assets\Pertamina_Logo.svg"
 a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\assets\Pertamina-white_Logo.svg"
 a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\theme.qss"
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\assets\reference_thermal_aqua_tower.jpg"
 a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp: C:\vcpkg\installed\x64-windows\tools\Qt6\bin\rcc.exe
 a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp: C:\vcpkg\installed\x64-windows\tools\Qt6\bin\rcc.exe
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for gui/resources.qrc"

@@ -448,6 +448,9 @@ C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/a70_gui_autogen/time
  C:/vcpkg/installed/x64-windows/share/zlib/vcpkg-cmake-wrapper.cmake
  C:/vcpkg/scripts/buildsystems/vcpkg.cmake
 
+CMakeFiles/a70_gui.dir/a70_gui_autogen/DMHXEJ42XS/qrc_resources.cpp.obj
+ C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/a70_gui_autogen/DMHXEJ42XS/qrc_resources.cpp
+
 CMakeFiles/a70_gui.dir/a70_gui_autogen/mocs_compilation.cpp.obj
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/a70_gui_autogen/mocs_compilation.cpp
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/build/a70_gui_autogen/DMHXEJ42XS/moc_feature_browser.cpp
@@ -1692,6 +1695,7 @@ CMakeFiles/a70_gui.dir/gui/main.cpp.obj
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qstringlist.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QElapsedTimer
  C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qelapsedtimer.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/QFile
  C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/QPalette
  C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qpalette.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qbrush.h
@@ -2262,6 +2266,14 @@ CMakeFiles/a70_gui.dir/gui/main_window.cpp.obj
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QToolButton
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/qtoolbutton.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QVBoxLayout
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/QPainter
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtGui/qpainter.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/QSvgRenderer
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/qsvgrenderer.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qxmlstream.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/qtsvgglobal.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtSvg/qtsvgexports.h
+ C:/vcpkg/installed/x64-windows/include/Qt6/QtCore/qcompilerdetection.h
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/feature_browser.h
  C:/vcpkg/installed/x64-windows/include/Qt6/QtWidgets/QDialog
  C:/Users/LENOVO THINKPAD T14/Documents/CUI_GigEVision/gui/thermal_view.h

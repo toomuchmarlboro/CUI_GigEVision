@@ -64,6 +64,7 @@ private slots:
     void toggleModbus(bool on);
     void irFormatChanged();
     void showFeatures();
+    void showAbout();
 
 private:
     QWidget* buildBrandHeader();

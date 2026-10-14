@@ -4,6 +4,7 @@
 #include <QCheckBox>
 #include <QCloseEvent>
 #include <QComboBox>
+#include <QDialog>
 #include <QDir>
 #include <QDoubleSpinBox>
 #include <QFileDialog>
@@ -15,6 +16,7 @@
 #include <QLabel>
 #include <QLineEdit>
 #include <QMessageBox>
+#include <QPixmap>
 #include <QPushButton>
 #include <QScrollArea>
 #include <QShortcut>
@@ -49,6 +51,11 @@ static QWidget* row(std::initializer_list<QWidget*> ws, int stretchIndex = -1) {
 MainWindow::MainWindow(const GuiOptions& opt, QWidget* parent) : QMainWindow(parent) {
     setWindowTitle("FLIR A70 Radiometric Capture");
     resize(1400, 860);
+    const bool hadSavedGeometry = restoreGeometry(settings_.value("ui/geometry").toByteArray());
+    if (!hadSavedGeometry) {
+        // first run: start maximized so the camera view fills the screen by default
+        QTimer::singleShot(0, this, [this] { showMaximized(); });
+    }
 
     auto* central = new QWidget;
     auto* outerV = new QVBoxLayout(central);
@@ -121,6 +128,14 @@ MainWindow::MainWindow(const GuiOptions& opt, QWidget* parent) : QMainWindow(par
     connect(btnSnapshot_, &QPushButton::clicked, this, &MainWindow::snapshot);
     tb->addWidget(btnSnapshot_);
     tb->addWidget(btnRecord_);
+    auto* spacer = new QWidget;
+    spacer->setSizePolicy(QSizePolicy::Expanding, QSizePolicy::Preferred);
+    tb->addWidget(spacer);
+    auto* btnAbout = new QToolButton;
+    btnAbout->setText(QString::fromUtf8("ℹ  About"));
+    btnAbout->setToolTip("About this application, and a reference real thermal photograph");
+    connect(btnAbout, &QToolButton::clicked, this, &MainWindow::showAbout);
+    tb->addWidget(btnAbout);
     new QShortcut(QKeySequence("Ctrl+,"), this, [this] { btnSettings_->toggle(); });
 
     const bool panelVisible = settings_.value("ui/panelVisible", false).toBool();
@@ -599,6 +614,38 @@ void MainWindow::showFeatures() {
     dlg.exec();
 }
 
+void MainWindow::showAbout() {
+    QDialog dlg(this);
+    dlg.setWindowTitle("About");
+    auto* v = new QVBoxLayout(&dlg);
+    auto* title = new QLabel(QString::fromUtf8(
+        "PT Pertamina (Persero) — Refinery Unit IV Cilacap\nFLIR A70 Radiometric CUI Monitor"));
+    title->setStyleSheet("font-weight:600; font-size:12pt;");
+    v->addWidget(title);
+
+    auto* refTitle = new QLabel("Reference: what a real thermal camera photograph looks like");
+    refTitle->setStyleSheet("margin-top:10px; color:#4ea8de;");
+    v->addWidget(refTitle);
+    auto* refImg = new QLabel;
+    QPixmap pix(":/reference_thermal.jpg");
+    refImg->setPixmap(pix.scaledToWidth(320, Qt::SmoothTransformation));
+    v->addWidget(refImg);
+    auto* refCaption = new QLabel(QString::fromUtf8(
+        "Real FLIR thermal photograph (FLIR b60, Chicago Aqua Tower, Jim D'Aloisio, 2010) — "
+        "CC0 1.0 Universal Public Domain, Wikimedia Commons. Shown as a reference example only.\n\n"
+        "This is NOT data from this application. Everything shown elsewhere in this program "
+        "is either live data from a connected camera, or clearly labeled simulator output — "
+        "never this reference image."));
+    refCaption->setWordWrap(true);
+    refCaption->setStyleSheet("color:#9aa0a6; font-size:8pt;");
+    v->addWidget(refCaption);
+
+    auto* btnClose = new QPushButton("Close");
+    connect(btnClose, &QPushButton::clicked, &dlg, &QDialog::accept);
+    v->addWidget(btnClose);
+    dlg.exec();
+}
+
 // ================================================================ frames
 void MainWindow::onFrame(std::shared_ptr<const ThermalFrame> f) {
     if (!eng_ || !f) return;
@@ -815,5 +862,6 @@ void MainWindow::toggleModbus(bool on) {
 
 void MainWindow::closeEvent(QCloseEvent* e) {
     disconnectCamera();
+    settings_.setValue("ui/geometry", saveGeometry());
     QMainWindow::closeEvent(e);
 }

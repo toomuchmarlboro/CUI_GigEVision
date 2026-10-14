@@ -448,6 +448,9 @@ a70_gui_autogen\timestamp: C:\vcpkg\installed\x64-windows\share\zlib\vcpkg-cmake
 a70_gui_autogen\timestamp: C:\vcpkg\scripts\buildsystems\vcpkg.cmake
 
 
+CMakeFiles\a70_gui.dir\a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp.obj: a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp
+
+
 CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\mocs_compilation.cpp
 CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\moc_feature_browser.cpp
 CMakeFiles\a70_gui.dir\a70_gui_autogen\mocs_compilation.cpp.obj: a70_gui_autogen\DMHXEJ42XS\..\..\..\gui\feature_browser.h
@@ -1691,6 +1694,7 @@ CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\
 CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qstringlist.h
 CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QElapsedTimer
 CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qelapsedtimer.h
+CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\QFile
 CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPalette
 CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpalette.h
 CMakeFiles\a70_gui.dir\gui\main.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qbrush.h
@@ -2261,6 +2265,14 @@ CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\i
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QToolButton
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtoolbutton.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QVBoxLayout
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPainter
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qpainter.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\QSvgRenderer
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\qsvgrenderer.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxmlstream.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\qtsvgglobal.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\qtsvgexports.h
+CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompilerdetection.h
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\feature_browser.h"
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QDialog
 CMakeFiles\a70_gui.dir\gui\main_window.cpp.obj: "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\thermal_view.h"
@@ -2681,6 +2693,8 @@ C:\vcpkg\installed\x64-windows\share\Qt6Gui\Qt6QWindowsDirect2DIntegrationPlugin
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\qrgb.h:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qxmlstream.h:
+
 "C:\Users\LENOVO THINKPAD T14\Documents\CUI_GigEVision\gui\feature_browser.cpp":
 
 "C:\Program Files\CMake\bin\cmake.exe":
@@ -3046,6 +3060,8 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcompare_impl.h:
 C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qcomparehelpers.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6CoreTools\Qt6CoreToolsConfig.cmake:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\qsvgrenderer.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfigVersion.cmake:
 
@@ -3777,6 +3793,10 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtCore\qfileinfo.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsConfig.cmake:
 
+C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHeaderView:
+
+a70_gui_autogen\DMHXEJ42XS\qrc_resources.cpp:
+
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qinputdialog.h:
 
 C:\vcpkg\installed\x64-windows\share\Qt6WidgetsTools\Qt6WidgetsToolsTargets.cmake:
@@ -4043,8 +4063,6 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QMessageBox:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qlayout.h:
 
-C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QHeaderView:
-
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qheaderview.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qabstractitemview.h:
@@ -4170,3 +4188,9 @@ C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\QToolButton:
 C:\vcpkg\installed\x64-windows\include\Qt6\QtWidgets\qtoolbutton.h:
 
 C:\vcpkg\installed\x64-windows\include\Qt6\QtGui\QPainter:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\QSvgRenderer:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\qtsvgglobal.h:
+
+C:\vcpkg\installed\x64-windows\include\Qt6\QtSvg\qtsvgexports.h:

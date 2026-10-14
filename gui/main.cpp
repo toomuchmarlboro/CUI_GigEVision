@@ -78,6 +78,9 @@ static int selfTest(QApplication& app, MainWindow& w, const QString& out) {
 }
 
 int main(int argc, char** argv) {
+#if QT_VERSION < QT_VERSION_CHECK(6, 0, 0)
+    QApplication::setAttribute(Qt::AA_EnableHighDpiScaling);  // Qt6 does this by default
+#endif
     QApplication app(argc, argv);
     QApplication::setApplicationName("a70_gui");
     QCommandLineParser p;
