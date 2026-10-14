@@ -17,6 +17,7 @@ namespace a70 {
 namespace {
 
 constexpr int W = 640, H = 480, META = 3;
+constexpr double kAmbientK = 303.15;
 // Fault injection for reliability tests: "SimCableUnplug" makes the camera vanish for
 // 4 s (grabs time out, re-open fails), exactly like a pulled cable or a camera reboot.
 std::atomic<double> g_faultUntil{0.0};
@@ -185,13 +186,14 @@ public:
         out.width = W;
         out.height = h;
         out.data.assign(size_t(W) * h, 0);
-        const double eT = 0.95, trT = 303.15, tr4 = trT * trT * trT * trT, ts4 = tr * tr * tr * tr;
+        const double eT = 0.95, trT = kAmbientK, tr4 = trT * trT * trT * trT, ts4 = tr * tr * tr * tr;
         size_t noff = static_cast<size_t>(rng_()) % (noise_.size() - size_t(W) * H);
         std::lock_guard<std::mutex> lk(m_);
         for (int y = 0; y < std::min(h, H); ++y)
             for (int x = 0; x < W; ++x) {
                 size_t i = size_t(y) * W + x;
-                double Ti = T[i];
+                // mild lens/atmosphere vignetting: attenuates the delta-from-ambient, not ambient itself
+                double Ti = kAmbientK + (T[i] - kAmbientK) * vignette_[i];
                 double W4 = eT * Ti * Ti * Ti * Ti + (1 - eT) * tr4;
                 double obj4 = (W4 - (1 - eps) * ts4) / std::max(eps, 0.01);
                 double Ta = std::pow(std::max(obj4, 1.0), 0.25) + fpn_[i] + noise_[noff + i];
@@ -229,9 +231,22 @@ private:
         order_.push_back(n);
     }
 
+    // Builds the static (non-time-varying) scene: ambient gradient, pipe band, flange,
+    // plus the texture a real radiometric capture of an insulated line would show —
+    // mottled jacket surface, circumferential cladding seams, and support-clamp cold
+    // spots from thermal bridging. Also precomputes the per-pixel vignette and the
+    // fixed-pattern/sensor noise fields. Everything here is seeded deterministically
+    // (fixed RNG seeds, no wall-clock input), so two freshly-opened simulator instances
+    // produce bit-identical static scenes — tests/test_core.cpp relies on this.
     void buildStatic() {
         base_.assign(size_t(W) * H, 0.f);
-        const double amb = 303.15;
+        vignette_.assign(size_t(W) * H, 1.f);
+        const double amb = kAmbientK;
+        const double cx0 = W / 2.0, cy0 = H / 2.0, rmax2 = cx0 * cx0 + cy0 * cy0;
+        constexpr double kVignetteStrength = 0.08;  // attenuation of the ambient delta at the frame corners
+        // two support-clamp cold bands: thermal bridging through the insulation at the strap location,
+        // kept clear of the demo flange (x in 458..482) and of tests/test_core.cpp's alarm box (x in 160..290)
+        constexpr double kClampX[2] = {90.0, 400.0};
         for (int y = 0; y < H; ++y)
             for (int x = 0; x < W; ++x) {
                 double v = amb - 0.004 * y;
@@ -240,21 +255,52 @@ private:
                     double shade = 1 - dy * dy;
                     v = amb + 1.5 + 2.5 * shade;
                     if (std::abs(x - 470) < 12) v = 358.15 - 6 * (1 - shade);
+                    // mottled insulation jacket texture: low-frequency, not per-pixel noise
+                    v += 0.08 * std::sin(x / 17.0 + y / 23.0) + 0.07 * std::sin(x / 41.0 - y / 11.0 + 1.3);
+                    // circumferential cladding seams, roughly every 42 px along the pipe
+                    double seamPhase = std::fmod(double(y - 180), 42.0);
+                    v -= 0.25 * std::exp(-std::pow((seamPhase - 1.0) / 1.2, 2.0));
+                    // support-clamp thermal bridging: localized cool band, strongest mid-band
+                    for (double scx : kClampX) {
+                        double dxs = (x - scx) / 6.0, dys = (y - 250) / 80.0;
+                        v -= 1.5 * std::exp(-(dxs * dxs + dys * dys));
+                    }
                 }
                 base_[size_t(y) * W + x] = float(v);
+                double ddx = x - cx0, ddy = y - cy0;
+                vignette_[size_t(y) * W + x] = float(1.0 - kVignetteStrength * (ddx * ddx + ddy * ddy) / rmax2);
             }
         std::mt19937 g(0);
-        std::normal_distribution<float> fp(0.f, 0.06f), nz(0.f, 0.04f);
+        std::normal_distribution<float> fp(0.f, 0.06f), nz(0.f, 0.04f), colBiasD(0.f, 0.03f);
         fpn_.resize(size_t(W) * H);
         for (auto& v : fpn_) v = fp(g);
+        std::vector<float> colBias(W);  // microbolometer column-wise fixed-pattern non-uniformity
+        for (auto& v : colBias) v = colBiasD(g);
+        for (int y = 0; y < H; ++y)
+            for (int x = 0; x < W; ++x) fpn_[size_t(y) * W + x] += colBias[x];
         noise_.resize(size_t(W) * H * 3);
         for (auto& v : noise_) v = nz(g);
+        // one-time spatial correlation (3x3 cross blur) so sensor noise reads as grain,
+        // not independent salt-and-pepper per pixel — cheap because it runs once, not per frame
+        std::vector<float> blurred(noise_.size());
+        const size_t total = noise_.size();
+        for (size_t i = 0; i < total; ++i) {
+            int x = int(i % W);
+            float sum = noise_[i];
+            int cnt = 1;
+            if (x > 0) { sum += noise_[i - 1]; ++cnt; }
+            if (x < W - 1) { sum += noise_[i + 1]; ++cnt; }
+            if (i >= size_t(W)) { sum += noise_[i - W]; ++cnt; }
+            if (i + W < total) { sum += noise_[i + W]; ++cnt; }
+            blurred[i] = sum / cnt;
+        }
+        noise_.swap(blurred);
     }
 
     std::mutex m_;
     std::map<std::string, Feature> feats_;
     std::vector<std::string> order_;
-    std::vector<float> base_, work_, fpn_, noise_;
+    std::vector<float> base_, work_, fpn_, noise_, vignette_;
     std::mt19937 rng_{1};
     bool open_ = false, streaming_ = false;
     double t0_ = 0, next_ = 0;

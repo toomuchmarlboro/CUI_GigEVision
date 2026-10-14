@@ -47,6 +47,34 @@ static void testCameraSim() {
     cam.close();
 }
 
+// The simulator's static scene (insulation texture, cladding seams, support-clamp cold
+// bands, vignette, sensor noise) is seeded deterministically with no wall-clock input, so
+// two freshly-opened instances must agree pixel-for-pixel on any point the dynamic wet-patch
+// and moving-hotspot overlays never reach. Also checks the whole frame stays within a sane
+// physical envelope — catches the new math producing NaN/overflow/runaway values.
+static void testSimRealism() {
+    A70Camera cam1("sim"), cam2("sim");
+    cam1.open("");
+    cam2.open("");
+    cam1.start();
+    cam2.start();
+    ThermalFrame f1, f2;
+    CHECK(cam1.grab(f1));
+    CHECK(cam2.grab(f2));
+    // (20, 400): below the pipe band (y 180..320) and below the wet-patch/hotspot's reach —
+    // driven only by the deterministic static scene + fixed-pattern/sensor noise
+    CHECK(std::fabs(f1.at(20, 400) - f2.at(20, 400)) < 1e-6);
+    bool bounded = true;
+    for (int y = 0; y < f1.height && bounded; ++y)
+        for (int x = 0; x < f1.width; ++x) {
+            double c = f1.at(x, y);
+            if (!(c > -50.0 && c < 500.0)) { bounded = false; break; }
+        }
+    CHECK(bounded);
+    cam1.close();
+    cam2.close();
+}
+
 static void testFiles(const std::string& dir) {
     A70Camera cam("sim");
     cam.open("");
@@ -195,6 +223,7 @@ int main() {
     fs::remove_all(dir);
     fs::create_directories(dir);
     testCameraSim();
+    testSimRealism();
     testFiles(dir);
     testRecorder(dir);
     testEngine(dir);
